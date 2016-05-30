@@ -450,57 +450,24 @@ header {
 /*EOF Testimonials*/
 /* Contact form */
 #contact {
-  background-image: url("../img/bg-contact.jpg");
-  background-size: cover;
+  background-color: #d43b1d;
   padding: 2em 0;
-  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3); }
-  #contact #contact-get {
-    float: left;
+  box-shadow: 0 3px 5px rgba(0, 0, 0, 0.3);
+  color: white; }
+  #contact h2 {
+    color: white; }
+  #contact a {
     color: white;
-    width: 45%; }
-    #contact #contact-get h2 {
-      color: white; }
-  #contact #contact-form {
-    float: right;
-    width: 50%;
-    overflow: hidden; }
-    #contact #contact-form label {
-      display: block;
-      overflow: hidden;
-      padding-right: 10%;
-      font-family: 'Montserrat', sans-serif;
-      text-transform: uppercase;
-      font-weight: 400;
-      color: white;
-      margin-bottom: 0.5em; }
-    #contact #contact-form textarea:focus, #contact #contact-form input:focus, #contact #contact-form input:active, #contact #contact-form textarea:active {
-      border: 0px white solid !important;
-      outline: 0 !important;
-      box-shadow: 0 0 0 white !important; }
-    #contact #contact-form textarea, #contact #contact-form input {
-      width: 100%;
-      margin-bottom: 1em;
-      color: #626262;
-      border: 0px white solid !important;
-      outline: 0 !important;
-      box-shadow: 0 0 0 white !important;
-      padding: 0.5em; }
-    #contact #contact-form input[type=submit] {
-      font-family: 'Montserrat', sans-serif;
-      text-transform: uppercase;
-      font-weight: 400;
-      float: right;
-      background-color: white;
-      color: #d43b1d;
-      border: 0px white solid;
-      -webkit-transition: all 0.5s ease-in;
-      -moz-transition: all 0.5s ease-in;
-      -ms-transition: all 0.5s ease-in;
-      -o-transition: all 0.5s ease-in;
-      transition: all 0.5s ease-in; }
-    #contact #contact-form input[type=submit]:hover, #contact #contact-form input[type=submit]:active {
-      background-color: #626262;
-      color: white; }
+    font-weight: bold;
+    text-decoration: none;
+    border-bottom: 2px solid white;
+    -webkit-transition: all 0.2s ease-in;
+    -moz-transition: all 0.2s ease-in;
+    -ms-transition: all 0.2s ease-in;
+    -o-transition: all 0.2s ease-in;
+    transition: all 0.2s ease-in; }
+  #contact a:hover {
+    border-bottom-color: #d43b1d; }
 
 #curtain {
   margin-bottom: 18em;

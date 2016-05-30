@@ -274,67 +274,24 @@ img{
 /* Contact form */
 
 #contact {
-	background-image:url('../img/bg-contact.jpg');
-	background-size:cover;
+	background-color:$orange;
 	padding:2em 0;
 	box-shadow:0 3px 5px rgba(0,0,0,0.3);
-
-	#contact-get {
-		float:left;
-		color:white;
-		width:45%;
-
-		h2 {color:white;}
-	}
-
-	#contact-form {
-		float:right;
-		width:50%;
-		overflow:hidden;
-
-		label {
-			display:block;
-			overflow:hidden;
-			padding-right:10%;
-			font-family: 'Montserrat', sans-serif;
-            text-transform: uppercase;
-            font-weight: 400;
-			color:white;
-			margin-bottom:0.5em;
-		}
-
-		textarea:focus, input:focus, input:active, textarea:active {
-			border: 0px white solid!important;
-			outline: 0!important;
-			box-shadow: 0 0 0 white!important;
-		}
-
-		textarea, input {
-			width:100%;
-			margin-bottom:1em;
-			color:$grey;
-			border: 0px white solid!important;
-			outline: 0!important;
-			box-shadow: 0 0 0 white!important;
-			padding:0.5em;
-		}
-
-		input[type=submit] {
-			font-family: 'Montserrat', sans-serif;
-            text-transform: uppercase;
-			font-weight: 400;
-			float:right;
-			background-color:white;
-			color:$orange;;
-			border:0px white solid;
-			@include animation(all 0.5s ease-in);
-		}
-
-		input[type=submit]:hover, input[type=submit]:active {
-			background-color:$grey;
-			color:white;
-		}
-	}
+    
+    color:white;
+    
+    h2 {color:white;}
+    
+     a {
+	color:white;
+	font-weight:bold;
+	text-decoration:none;
+	border-bottom:2px solid white;
+	@include animation(all 0.2s ease-in);
+    }
+    a:hover {
+        border-bottom-color:$orange;
+    }
 }
 
 #curtain {
