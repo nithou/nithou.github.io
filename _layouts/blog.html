@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<div class="post wrapper">
+
+	<h1>{{ page.title }}</h1>
+	<h2>{{ page.date | date:"%d/%m/%Y" }}</h2>
+	{{ content }}
+    
+    <h4 class="share-links">Sharing is caring : <a href="https://twitter.com/intent/tweet?text={{ page.title }}%20&url=http%3A%2F%2Fvandereecken.me{{ page.url }}&via=nithou" class="icon-twitter tw popup" target="_blank">Twitter</a>,&nbsp;<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me{{ page.url }}" class="icon-facebook fb popup" target="_blank">Facebook</a></h4>
+
+	<div class="clear"></div>
+</div>

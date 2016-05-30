@@ -1,0 +1,18 @@
+---
+layout: work
+title:  "Chez Nous"
+date:   2011-10-12 18:09:13
+categories: works
+custom_css: true
+short_url: http://www.cheznousatable.com
+permalink: works/cheznous/
+post_color: d2c6ac
+pic1: /img/works/cheznous/cheznous-slide-1.jpg
+pic2: /img/works/cheznous/cheznous-slide-2.jpg
+pic3: /img/works/cheznous/cheznous-slide-3.jpg
+icon: /img/works/cheznous/icon.jpg
+role: webdesign & integration
+description: Website for Chez Nous, a small but great restaurant in Brussels, Belgium
+---
+
+Chez Nous is a small restaurant in Brussels, opened by two girls who do an amazing cuisine. The idea was to make a one pager with some warm feeling, displaying their art and their place. The back-end allows to modify simply some parts of the page, letting all the complicated stuff behind.

@@ -1,0 +1,22 @@
+---
+layout: work
+title:  "CHS"
+date:   2014-09-01 08:00:00
+categories: works
+custom_css: true
+short_url: http://chservices.be/
+permalink: works/chs/
+post_color: 488ECC
+pic1: /img/works/chs/chs-slide-1.jpg
+pic2: /img/works/chs/chs-slide-2.jpg
+pic3: /img/works/chs/chs-slide-3.jpg
+icon: /img/works/chs/icon.jpg
+role: identity & webdesign
+description: Identity and Webdesign for CHS, a company serving communities
+---
+
+CHS Services is a new company, aimed to provide services to the shared flats popping here and there more and more often. It diversifies into multiple services : Cleaning, gardening and technical services.
+
+They wanted a logo representing both their professionalism but also all the services they add to offer, so I went for a logo containing three pictograms representing each services, and its color.
+
+The website is fully responsive and provides all the informations about the company and an exhaustive description of its services. It's easy to handle and quickly adaptable to every new service coming up.

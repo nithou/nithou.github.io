@@ -1,0 +1,23 @@
+---
+layout: work
+title:  "DaarDaar"
+date:   2016-02-01 08:00:00
+categories: works
+custom_css: true
+short_url: http://daardaar.be
+permalink: works/daardaar/
+post_color: 6ca443
+pic1: /img/works/daardaar/daardaar-slide-1.jpg
+pic2: /img/works/daardaar/daardaar-slide-2.jpg
+pic3: /img/works/daardaar/daardaar-slide-3.jpg
+icon: /img/works/daardaar/icon.jpg
+role: identity & webdesign
+description: Identity & website for DaarDaar
+---
+In a country divided by its different languages, there's not many bridges between communities. That's a problem DaarDaar aims to solve by providing **translated articles from Dutch-speaking newspapers to the French part** of Belgium.
+
+In 2015, David Charlier & Vincent Laborderie came to see me about this project. DaarDaar was just an idea at the moment that they wanted to build. Together we started to build this **new pure player in the Belgian landscape**. In some months, the first draft of DaarDaar was online, ready to receive feedback.
+
+The launch was a success with a lot of visitors already at the start (and which is still growing at the moment) and a steady progression. By using tools like **heatmaps**, **visitors analysis** and **user behavior** analysis, I was able to isolate which part of our beta version were useful to our visitors, and which weren't used at all (despite what we were thinking at the beginning), leading to the second and first "official" version of DaarDaar that you can see online.
+
+The project is still ongoing with many things more to come so stay tuned ;)

@@ -1,0 +1,23 @@
+---
+layout: work
+title:  "uFab"
+date:   2014-09-01 09:00:00
+categories: works
+custom_css: true
+short_url: http://www.ufab.be/
+permalink: works/ufab/
+post_color: 3e4d77
+pic1: /img/works/ufab/ufab-slide-1.jpg
+pic2: /img/works/ufab/ufab-slide-2.jpg
+pic3: /img/works/ufab/ufab-slide-3.jpg
+icon: /img/works/ufab/icon.jpg
+role: identity & webdesign
+description: Identity and Webdesign for uFab, a Brussels based fablab
+---
+
+uFab is a fablab (3D Printer and so on) based in Brussels founded in 2013, it aims to provide top 3D printing solutions to both industrials and single person. It wants to promote digital fabrication and technologies.
+
+They asked me to create an identity strong and particular, giving in an eye and idea of their activity. We worked a lot with the cog logo, it's even animated in the website to give this fabrication feeling. The font is a strong serif one, aimed to ensure the solitidy and trustability of their work.
+
+*"I contacted Simon to create the logo and the website for my FabLab company. He worked fast and delivered something that went beyond our expectations, taking into account all our wishes. It has been a pleasure to work with him!"*
+**Arnaud Cambier - Founder of uFab**

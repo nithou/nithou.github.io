@@ -1,0 +1,40 @@
+@import "webfont";
+@import "variables";
+
+* {
+	-webkit-font-smoothing: antialiased;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	font-family:"Century Gothic","Apple Gothic",AppleGothic,"URW Gothic L","Avant Garde",Futura,sans-serif;
+	background-color:$light;
+	color:$grey;
+}
+
+.clear {
+	clear:both;
+}
+
+/* TYPOGRAPHY */
+@import "typography";
+
+/* HOMEPAGE */
+@import "home";
+
+/* CONSTRUCTION */
+@import "construct";
+
+/* WORK DISPLAY */
+@import "single";
+
+/* CATEGORIES */
+@import "category";
+
+/* RESPONSIVE */
+@import "responsive";
+
+/* FREEBIES */
+@import "freebies";

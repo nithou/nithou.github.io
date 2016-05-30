@@ -1,0 +1,12 @@
+$grey:#626262;
+$light:#fbfbfd;
+$orange:#d43b1d;
+$pale:#cccccc;
+
+@mixin animation($what) {
+		-webkit-transition: $what;
+		   -moz-transition: $what;
+		    -ms-transition: $what;
+		     -o-transition: $what;
+		        transition: $what;
+}

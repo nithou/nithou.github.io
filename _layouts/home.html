@@ -1,0 +1,59 @@
+---
+layout: default
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-03-01T12:49:30-05:00
+---
+
+<div class="home-header">
+
+	<div class="devices">
+		<h1 class="tagline">Construisons votre avenir digital</h1>
+		<img src="/img/imac.png" data-xrange="10" data-yrange="0" class="imac" width=400 />
+		<img src="/img/ipad.png" data-xrange="40" data-yrange="0" class="ipad" />
+		<img src="/img/ipadmini.png" data-xrange="50" data-yrange="0" class="ipadmini" />
+		<img src="/img/iphone.png" data-xrange="100" data-yrange="0" class="iphone" />
+		<img src="/img/macbook.png" data-xrange="40" data-yrange="0" class="macbook" width=350/>
+	</div>
+
+	<div class="avatar"></div>
+
+</div>
+
+<script type="text/javascript">
+	$(document).ready(function () {
+	  $('.devices img').plaxify();
+	  $.plax.enable();
+	})
+</script>
+
+<div class="bordertop">
+	<section class="home-pres wrapper content">
+		{{ content }}
+	</section>
+</div>
+
+<div class"bordertop">
+	<section class="links wrapper content">
+        <div class="col-left">
+            <h2>Derniers billets</h2>
+            <ul>
+                {% for post in site.categories.blog limit:5 %}
+                    <li><span class="date">{{ post.date | date:"%d/%m/%Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+        
+        <div class="col-right">
+            <h2>Dernières case studies</h2>
+            <ul>
+                {% for post in site.categories.works limit:5 %}
+                    <li><span class="date">{{ post.date | date:"%d/%m/%Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+        </div>
+    <div style="clear:both"></div>
+    </section>
+    
+</div>

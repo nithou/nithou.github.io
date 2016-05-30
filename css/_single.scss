@@ -1,0 +1,70 @@
+.big-header {
+	height:37em;
+	position:relative;
+	background-color:#fbfbfd;
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position:center center;
+	@include animation(all 0.5s ease-in);
+}
+
+.work-info {
+	padding:0 0;
+	background-color:$grey;
+}
+
+.work-info a {
+	color:white;
+	height:4em;
+	line-height:4em;
+	text-decoration:none;
+	background-color:#626262;
+	display:block;
+	float:left;
+	padding:0 1em;
+	-webkit-transition: background-color .5s ease-in;
+	   -moz-transition: background-color .5s ease-in;
+	    -ms-transition: background-color .5s ease-in;
+	     -o-transition: background-color .5s ease-in;
+	        transition: background-color .5s ease-in;
+}
+
+.work-info a:hover {
+	background-color:#d43b1d;
+}
+
+.work-info .share a {
+	width:4em;
+	padding:0 0;
+	text-align:center;
+}
+
+.post {
+	padding-top:3em;
+	padding-bottom:4em;
+
+	h1 {
+		margin:0;
+		padding:0;
+	}
+
+	h2 {
+		margin:0;
+		padding-top:0;
+		padding-bottom:1em;
+		font-family: 'Montserrat', sans-serif;
+		font-size:1.1em;
+        color:$pale;
+	}
+
+	.left {
+		float:left;
+		width:400px;
+		max-width:100%;
+		margin-left:-25%;
+		padding-right:1em;
+		padding-bottom:1em;
+	}
+
+    .share-links {margin-top:4em;}
+}

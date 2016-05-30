@@ -1,0 +1,18 @@
+---
+layout: work
+title:  "Tom Vea"
+date:   2012-09-01 18:09:13
+categories: works
+custom_css: true
+short_url:  http://www.tomvea.com
+permalink: works/tomvea/
+post_color: 9964a4
+pic1: /img/works/tomvea/tomvea-slide-1.jpg
+pic2: /img/works/tomvea/tomvea-slide-2.jpg
+pic3: /img/works/tomvea/tomvea-slide-3.jpg
+icon: /img/works/tomvea/icon.jpg
+role: webdesign & integration
+description: Website for Tom Vea, a music journalist, wich a great focus on good music
+---
+
+Tom Vea is the website of a music journalist, and if you like to discover new territories & new sounds, you should have a look at  it ;) I worked using some vinyls, hidden in the layout here and there, and putting some classification system to help handle all the possible musical genres.

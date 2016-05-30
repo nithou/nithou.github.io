@@ -1,0 +1,25 @@
+---
+layout: work
+title:  "Pangaya"
+date:   2012-10-01 18:09:13
+categories: works
+custom_css: true
+permalink: works/pangaya/
+post_color: 9dbc39
+pic1: /img/works/pangaya/pangaya-slide-1.jpg
+pic2: /img/works/pangaya/pangaya-slide-2.jpg
+pic3: /img/works/pangaya/pangaya-slide-3.jpg
+icon: /img/works/pangaya/icon.jpg
+role: web & print identity
+description: Identity work for Pangaya, a translation agency affiliated to Nikita S.A. with a strong green focus
+---
+
+Pangaya was a translation agency founded by [Nikita S.A.](http://vandereecken.me/works/nikita/). Together with [Berenice Moldawski](http://be.linkedin.com/pub/berenice-moldawski/75/a10/53). The company had really an important focus on the **respect for nature**, and wanted to have a "green" touch in their identity.
+
+The name shouldn't be relative to any country, or refer to the word "translation". We knew that **translation congregates countries and people**,  so it made sense that the name had to refer to the earth, we mixed then "Pangaea" and "Gaia" to find PANGAYA.
+
+As the company was really oriented towards the Chinese market & spirit, we worked with the **visual of a panda** in the logo (something the client thought would be nice, and indeed it was ;) ), but only by using small distinctive parts of it, without going into a full illustration.
+
+Having a priority to **reduce their ecological footprint**, Pangaya asked us to consider alternative solutions for their stationery.  We had the chance to collaborate again with [Igepa](http://www.igepa.be/nl)'s papers, but with their **high quality recycled papers** this time. Same went for the use of the ink, where we did our best to keep the printed informations at the minimal, **avoiding waste of ink**.
+
+The website had to be simple, clear and direct, we worked a lot on **keeping the same feeling** and green touch as into the print identity. To illustrate and energize the website, we designed original pictograms. The site is available in five languages that, unquestionably, bears their tagline **"Your words, our work"**.

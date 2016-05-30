@@ -1,0 +1,26 @@
+---
+layout: work
+title:  "MVM"
+date:   2013-10-18 18:09:13
+categories: works
+custom_css: true
+short_url: http://vanmechelen.com
+permalink: works/vanmechelen/
+post_color: C83B23
+pic1: /img/works/mvm/mvm-slide-1.jpg
+pic2: /img/works/mvm/mvm-slide-3.jpg
+icon: /img/works/mvm/icon.jpg
+role: identity creation
+description: Identity work for Matthieu Van Mechelen, a Belgian musician
+---
+
+Matthieu Van Mechelen is a belgian **musician**, passionate about sound creation & composition. I was asked to create a logo for his work (mostly great electronic music). He wanted something that would give a strong impression, and loved the idea of a hat (as in : couldn't live without ;) ).
+
+<img src="../../img/works/mvm/mvm-concept.jpg" alt="Logo conception for MVM - Quick draw" class="left" />
+
+So I started scouting around for some interesting hat forms, drawing a lot of them, to finish on some **mafia hat**, for its strong & groovy feeling, playing well with Matthieu's music. I worked with the [League Gothic font](https://www.theleagueofmoveabletype.com/league-gothic), cropped by the hat, adjusting some anchor points of the letters to have a more "squared" feeling.
+
+This font allows has a great readability, thus allowing the logo to still be **identifiable even in the smallest sizes**. Its weight gives also a strong and firm impression.
+
+Variants of the logo were developed both in vertical and in horizontal, allowing a lot of usages. I also worked on a **single hat icon** for use in the social medias (like on [his twitter](http://www.twitter.com/Matt_VnM) ).
+

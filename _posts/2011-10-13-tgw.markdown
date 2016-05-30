@@ -1,0 +1,18 @@
+---
+layout: work
+title:  "The Geek Whisperer"
+date:   2011-10-13 18:09:13
+categories: works
+custom_css: true
+short_url:  http://www.thegeekwhisperer.be
+permalink: works/thegeekwhisperer/
+post_color: a94c52
+pic1: /img/works/tgw/tgw-slide-1.jpg
+pic2: /img/works/tgw/tgw-slide-2.jpg
+pic3: /img/works/tgw/tgw-slide-3.jpg
+icon: /img/works/tgw/icon.jpg
+role: webdesign & integration
+description: Personal blog for Catherine Kohnen, one of Elenkos's founder.
+---
+
+The Geek Whisperer is the website of one of Elenkos's founder, Catherine Kohnen. It's a place where she can speaks freely about her passions. One of those passion are the pinups, which is why I intended to work on the design based on colours relative to this age but also on images from this period. To play on the geek side of Catherine, I used some Space Invaders to find some balance with the pin-up image, and a robot toy. The font title was chosen in reference to Bewitched.

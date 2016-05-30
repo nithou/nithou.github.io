@@ -1,0 +1,24 @@
+---
+layout: work
+title:  "Nikita S.A."
+date:   2012-10-05 18:09:13
+categories: works
+custom_css: true
+permalink: works/nikita/
+post_color: BCBBBD
+pic1: /img/works/nikita/nikita-slide-1.jpg
+pic2: /img/works/nikita/nikita-slide-2.jpg
+icon: /img/works/nikita/icon.jpg?v=2
+role: identity creation
+description: Identity work for Nikita SA, a services company from Brussels, Belgium.
+---
+
+Nikita SA was the mother company of [Pillows Factory](http://vandereecken.me/works/pillowsfactory/) for which I used to work for. Together with [Berenice Moldawski](http://be.linkedin.com/pub/berenice-moldawski/75/a10/53), we worked on their identity.
+
+<img src="../../img/works/nikita/icon.jpg" alt="Silver foil letterpress card for Nikita S.A." class="left" />
+
+The client wanted something giving a sense of severity, recalling also Greece where he came from, so we worked with a serif typeface for the logo. Working on a **monogram**, we used only the N letter, with its last part cutted in two, giving an elevation feeling.
+
+For this logo, we also used an octagon, recalling the feng-shui ba-ga, a symbol representing all the aspects of life. The identity was created using a thick black paper from [Igepa](http://www.igepa.be/nl), and was printed by [Polyprint24](http://polyprint24.tumblr.com). We also used a silver foil on the cards & the envelopes, giving a unique & luxurious touch to the identity. For costs reasons, a "lighter" version of the identity was also created on white paper (for all the basic communications).
+
+A website was also made, using a shade of purple red as contrast colour, unfortunately, as our collaboration stopped, this website never saw the light of day.

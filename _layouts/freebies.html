@@ -1,0 +1,45 @@
+---
+layout: default
+---
+
+<style>
+
+header {
+	border-bottom:0.5em #{{ page.post_color }} solid;
+}
+
+header #logo a:hover {
+	color:#{{ page.post_color }};
+}
+
+.borderbottom, .bordertop {
+	border-color:#{{ page.post_color }};
+}
+
+.work-info a:hover {
+	background-color:#{{ page.post_color }};
+}
+
+footer {
+	border-color:#{{ page.post_color }};
+}
+
+footer a {
+	color:#{{ page.post_color }};
+}
+
+.content a, .post a {
+	color:#{{ page.post_color }};
+	border-color:#{{ page.post_color }};
+}
+
+</style>
+
+<div class="post wrapper">
+
+	{{ content }}
+
+	<div class="clear"></div>
+</div>
+
+

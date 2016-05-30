@@ -1,0 +1,27 @@
+---
+layout: default
+title: Hello, I'm Simon Vandereecken
+sitemap:
+    priority: 0.7
+    changefreq: 'monthly'
+    lastmod: 2015-03-01T12:49:30-05:00
+---
+
+<div id="category">
+  <ul class="posts bordertop">
+        
+    {% for post in site.categories.works %}
+      <li>
+      	<a href="{{ post.url }}">
+      		<img src="{{ site.url }}{{ post.icon }}" alt="{{ post.title }}" />
+	      	<div class="info">
+	      		<h2>{{ post.title }}</h2>
+	      		<h3>{{ post.role }}</h3>
+	      	</div>
+      	</a>
+      </li>
+    {% endfor %}
+
+  <div class="clear"></div>
+  </ul>
+</div>
