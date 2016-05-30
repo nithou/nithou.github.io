@@ -47,45 +47,9 @@
   </url>
   
   <url>
-    <loc>http://vandereecken.me/works/dekemmeter/</loc>
-    
-    <lastmod>2014-10-01T10:00:00+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/intercompta/</loc>
-    
-    <lastmod>2014-09-10T10:00:00+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>http://vandereecken.me/works/equinoxe/</loc>
     
     <lastmod>2014-09-08T10:00:00+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/ufab/</loc>
-    
-    <lastmod>2014-09-01T11:00:00+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/chs/</loc>
-    
-    <lastmod>2014-09-01T10:00:00+02:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -104,15 +68,6 @@
     <loc>http://vandereecken.me/works/armacutis/</loc>
     
     <lastmod>2014-03-28T09:00:00+01:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/deridder/</loc>
-    
-    <lastmod>2014-01-19T20:09:13+01:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
@@ -164,42 +119,6 @@
   </url>
   
   <url>
-    <loc>http://vandereecken.me/works/nikita/</loc>
-    
-    <lastmod>2012-10-05T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/mappamundo/</loc>
-    
-    <lastmod>2012-10-04T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/leroidesbelges/</loc>
-    
-    <lastmod>2012-10-03T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/zebra/</loc>
-    
-    <lastmod>2012-10-02T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>http://vandereecken.me/works/pangaya/</loc>
     
     <lastmod>2012-10-01T20:09:13+02:00</lastmod>
@@ -209,36 +128,9 @@
   </url>
   
   <url>
-    <loc>http://vandereecken.me/works/tomvea/</loc>
-    
-    <lastmod>2012-09-01T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>http://vandereecken.me/works/elenkos/</loc>
     
     <lastmod>2011-10-14T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/thegeekwhisperer/</loc>
-    
-    <lastmod>2011-10-13T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/works/cheznous/</loc>
-    
-    <lastmod>2011-10-12T20:09:13+02:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
