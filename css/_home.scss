@@ -35,7 +35,7 @@
     font-size: 2em;
     text-align: center;
     padding-top: 4em;
-    text-shadow: 2px 2px 1px $grey;   
+    text-shadow: 2px 2px 1px $grey;
     width:100%;
 }
 
@@ -113,20 +113,6 @@
     text-align:left;
 }
 
-.col-left, .col-right {
-    float:left;
-}
-
-.col-left {
-    width:47.5%;
-    margin-right:2.5%;
-}
-
-.col-right {
-    width:47.5%;
-    margin-left:2.5%;
-}
-
 .work-examples {
     margin-top:4em;
     margin-bottom:4em;
@@ -136,6 +122,6 @@
     a {display: block;line-height:0;}
     li {float:left;margin:0;padding:0;width:20%;}
     img {width:100%;@include animation(opacity 0.25s ease-in);}
-    
+
     a:hover img {opacity:0.5;}
 }
