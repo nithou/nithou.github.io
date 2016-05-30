@@ -17,10 +17,8 @@
     <link rel="alternate" type="application/rss+xml" href="http://vandereecken.me/feed.xml" title="">
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/normalize.css">
     <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/css/style.css">
-    <!--[if lte IE 7]><script src="/css/icons-lte-ie7.js"></script><![endif]-->
 
     <link rel="stylesheet" href="/js/owl-carousel/owl.carousel.css">
 	<link rel="stylesheet" href="/js/owl-carousel/owl.theme.css">
@@ -32,7 +30,13 @@
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
     <script src="/js/responsive-nav/responsive-nav.min.js"></script>
 	<script src="/js/owl-carousel/owl.carousel.js"></script>
-	<script src="/js/plax.js" ></script>
+
+    <script>
+    if (screen && screen.width > 480) {
+      document.write('<script src="\/js/plax.js" ><\/script>');
+    }
+    </script>
+
 
     <!--[if lt IE 9]>
     <script src="/js/html5shiv.js"></script>
