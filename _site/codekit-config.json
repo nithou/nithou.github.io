@@ -993,6 +993,15 @@
       "initialSize" : 162802,
       "fileType" : 4096
     },
+    "\/_site\/politique\/2011\/06\/13\/un-an.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/06\/13\/un-an.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/passions\/vie\/2014\/12\/22\/premier-roman-temps-voles.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1023,15 +1032,6 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/mappa\/icon.jpg",
       "initialSize" : 164066,
       "fileType" : 4096
-    },
-    "\/_site\/politique\/2011\/06\/13\/un-an.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/06\/13\/un-an.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/img\/works\/daardaar\/daardaar-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1126,16 +1126,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/works\/pillows\/pillows-slide-2.jpg" : {
+    "\/css\/normalize.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/works\/pillows\/pillows-slide-2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/works\/pillows\/pillows-slide-2.jpg",
-      "initialSize" : 191234,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_layouts\/default.html" : {
       "ignoreWasSetByUser" : 0,
@@ -1146,14 +1144,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/normalize.css" : {
+    "\/img\/works\/pillows\/pillows-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
+      "inputAbbreviatedPath" : "\/img\/works\/pillows\/pillows-slide-2.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/works\/pillows\/pillows-slide-2.jpg",
+      "initialSize" : 191234,
+      "fileType" : 4096
     },
     "\/_site\/img\/works\/pillows\/pillows-bg.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1184,6 +1184,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/img\/works\/tomvea\/tomvea-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1195,15 +1204,6 @@
       "initialSize" : 212950,
       "fileType" : 4096
     },
-    "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/img\/works\/zweig\/zweig-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1213,6 +1213,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/img\/works\/zweig\/zweig-slide-2.jpg",
       "initialSize" : 593106,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg",
+      "initialSize" : 153721,
       "fileType" : 4096
     },
     "\/img\/works\/objectifbd\/objectifbd-slide-1.jpg" : {
@@ -1245,17 +1256,6 @@
       "inputAbbreviatedPath" : "\/_site\/blog\/2012\/encre-bleue-aux-vertus-sympathiques\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/daardaar\/daardaar-slide-1.jpg",
-      "initialSize" : 153721,
-      "fileType" : 4096
     },
     "\/img\/works\/kevin\/kevin-slide-4.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1401,21 +1401,21 @@
       "outputAbbreviatedPath" : "\/_site\/js\/main-ck-ck.js",
       "fileType" : 64
     },
-    "\/_site\/politique\/2011\/04\/19\/lapres-shame.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/04\/19\/lapres-shame.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/works\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/works\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/politique\/2011\/04\/19\/lapres-shame.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/04\/19\/lapres-shame.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1522,17 +1522,6 @@
       "initialSize" : 287393,
       "fileType" : 4096
     },
-    "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
-      "initialSize" : 286139,
-      "fileType" : 4096
-    },
     "\/img\/imac.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1543,6 +1532,17 @@
       "outputAbbreviatedPath" : "\/img\/imac.png",
       "initialSize" : 19488,
       "fileType" : 8192
+    },
+    "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
+      "initialSize" : 286139,
+      "fileType" : 4096
     },
     "\/_site\/img\/works\/rdb\/rdb-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1822,15 +1822,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/img\/works\/afschrift\/afschrift-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1841,6 +1832,15 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-1.jpg",
       "initialSize" : 1590755,
       "fileType" : 4096
+    },
+    "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/work\/2013\/06\/22\/mp6-un-coup-de-frais-sur-wordpress.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2362,17 +2362,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
-      "initialSize" : 1556238,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/mvm\/mvm-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2392,6 +2381,17 @@
       "inputAbbreviatedPath" : "\/_site\/works\/daardaar\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
+    },
+    "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
+      "initialSize" : 1556238,
+      "fileType" : 4096
     },
     "\/img\/works\/badger\/badger-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2684,15 +2684,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/blog\/2013\/jai-passe-4-jours-sur-internet-mon-bilan\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/blog\/2013\/jai-passe-4-jours-sur-internet-mon-bilan\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/img\/works\/mappa\/mappa-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2703,6 +2694,15 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/mappa\/mappa-slide-3.jpg",
       "initialSize" : 266400,
       "fileType" : 4096
+    },
+    "\/_site\/blog\/2013\/jai-passe-4-jours-sur-internet-mon-bilan\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/blog\/2013\/jai-passe-4-jours-sur-internet-mon-bilan\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/works\/badgerproductions\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2786,17 +2786,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/works\/chs\/chs-slide-1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/chs\/chs-slide-1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/chs\/chs-slide-1.jpg",
-      "initialSize" : 840285,
-      "fileType" : 4096
-    },
     "\/img\/works\/simonnath\/simonnath-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2806,6 +2795,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/img\/works\/simonnath\/simonnath-slide-3.jpg",
       "initialSize" : 234270,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/chs\/chs-slide-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/chs\/chs-slide-1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/chs\/chs-slide-1.jpg",
+      "initialSize" : 840285,
       "fileType" : 4096
     },
     "\/_site\/img\/works\/afschrift\/afschrift-slide-3.jpg" : {
@@ -3069,21 +3069,21 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/blog\/index.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/blog\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/work\/2014\/03\/19\/design-ne-transforme-le-plomb-en.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/work\/2014\/03\/19\/design-ne-transforme-le-plomb-en.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/blog\/index.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/blog\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -3418,17 +3418,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg",
-      "initialSize" : 282147,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3438,6 +3427,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg",
       "initialSize" : 552076,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg",
+      "initialSize" : 282147,
       "fileType" : 4096
     },
     "\/_site\/blog\/2013\/un-site-collaboratif-sous-wordpress\/index.html" : {
@@ -3737,17 +3737,6 @@
       "initialSize" : 234270,
       "fileType" : 4096
     },
-    "\/img\/bg-contact.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/bg-contact.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/bg-contact.jpg",
-      "initialSize" : 54106,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3757,6 +3746,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg",
       "initialSize" : 186376,
+      "fileType" : 4096
+    },
+    "\/img\/bg-contact.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/bg-contact.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/bg-contact.jpg",
+      "initialSize" : 54106,
       "fileType" : 4096
     },
     "\/_site\/css\/style.css" : {
@@ -3830,17 +3830,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/_home.scss" : {
+    "\/_site\/works\/objectifbd\/index.html" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_home.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_home.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/_site\/works\/objectifbd\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/_site\/blog\/2016\/05\/30\/nouveaudepart.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3851,14 +3848,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/works\/objectifbd\/index.html" : {
+    "\/img\/works\/ufab\/ufab-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/works\/objectifbd\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
+      "initialSize" : 287393,
+      "fileType" : 4096
     },
     "\/img\/works\/yourfreeway\/icon.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3880,16 +3879,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/works\/ufab\/ufab-slide-3.jpg" : {
+    "\/css\/_home.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
-      "initialSize" : 287393,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/css\/_home.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_home.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_site\/js\/html5shiv.js" : {
       "ignoreWasSetByUser" : 0,
@@ -4160,17 +4160,6 @@
       "initialSize" : 90762,
       "fileType" : 4096
     },
-    "\/img\/works\/ufab\/icon.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/works\/ufab\/icon.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/works\/ufab\/icon.jpg",
-      "initialSize" : 20388,
-      "fileType" : 4096
-    },
     "\/img\/works\/equinoxe\/equinoxe-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -4180,6 +4169,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/img\/works\/equinoxe\/equinoxe-slide-2.jpg",
       "initialSize" : 114568,
+      "fileType" : 4096
+    },
+    "\/img\/works\/ufab\/icon.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/works\/ufab\/icon.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/works\/ufab\/icon.jpg",
+      "initialSize" : 20388,
       "fileType" : 4096
     },
     "\/_site\/politique\/2011\/06\/27\/chere-flandre.html" : {
