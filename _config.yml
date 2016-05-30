@@ -3,4 +3,5 @@ description: Portfolio de Simon Vandereecken, couteau suisse belge en design dig
 timezone: Europe/Brussels
 url: http://vandereecken.me
 permalink: /:categories/:year/:title/
-disqus-shortname: nithou
+gems:
+ - jekyll-sitemap
