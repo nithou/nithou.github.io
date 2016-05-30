@@ -2,16 +2,14 @@
   "CodeKitInfo" : "This is a CodeKit project configuration file. It is designed to sync project settings across multiple machines. Modifying the contents of this file can be a poor life decision if you don't know what you're doing. This file is not useful unless accompanied by the project that created it in CodeKit. For more information, see: http:\/\/incident57.com\/codekit",
   "creatorBuild" : "8403",
   "files" : {
-    "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg" : {
+    "\/_site\/works\/armacutis\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg",
-      "initialSize" : 563505,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/works\/armacutis\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/works\/pillows\/icon.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -158,14 +156,16 @@
       "initialSize" : 2253203,
       "fileType" : 4096
     },
-    "\/_site\/blog\/2014\/apprendre-chaque-jour\/index.html" : {
+    "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/blog\/2014\/apprendre-chaque-jour\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg",
+      "initialSize" : 207854,
+      "fileType" : 4096
     },
     "\/css\/_variables.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -179,16 +179,14 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
-    "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg" : {
+    "\/_site\/blog\/2014\/apprendre-chaque-jour\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/objectifbd\/objectifbd-slide-3.jpg",
-      "initialSize" : 207854,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/blog\/2014\/apprendre-chaque-jour\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/works\/pimentplume\/pimentplume-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -725,15 +723,6 @@
       "initialSize" : 25295,
       "fileType" : 8192
     },
-    "\/js\/responsive-nav\/responsive-nav.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/js\/responsive-nav\/responsive-nav.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/css\/_webfont.scss" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -745,6 +734,15 @@
       "outputAbbreviatedPath" : "\/css\/_webfont.css",
       "fileType" : 4,
       "debugStyle" : 0
+    },
+    "\/js\/responsive-nav\/responsive-nav.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/js\/responsive-nav\/responsive-nav.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_site\/css\/ie.css" : {
       "ignoreWasSetByUser" : 0,
@@ -993,15 +991,6 @@
       "initialSize" : 162802,
       "fileType" : 4096
     },
-    "\/_site\/politique\/2011\/06\/13\/un-an.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/06\/13\/un-an.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/passions\/vie\/2014\/12\/22\/premier-roman-temps-voles.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1032,6 +1021,15 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/mappa\/icon.jpg",
       "initialSize" : 164066,
       "fileType" : 4096
+    },
+    "\/_site\/politique\/2011\/06\/13\/un-an.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/06\/13\/un-an.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/works\/daardaar\/daardaar-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1126,24 +1124,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/normalize.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/normalize.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
-    "\/_layouts\/default.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_layouts\/default.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/img\/works\/pillows\/pillows-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1154,6 +1134,24 @@
       "outputAbbreviatedPath" : "\/img\/works\/pillows\/pillows-slide-2.jpg",
       "initialSize" : 191234,
       "fileType" : 4096
+    },
+    "\/_layouts\/default.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_layouts\/default.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/css\/normalize.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/normalize.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
     },
     "\/_site\/img\/works\/pillows\/pillows-bg.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1184,15 +1182,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
     "\/_site\/img\/works\/tomvea\/tomvea-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1203,6 +1192,15 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/tomvea\/tomvea-slide-3.jpg",
       "initialSize" : 212950,
       "fileType" : 4096
+    },
+    "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/blog\/2011\/05\/25\/le-web-lecole.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/works\/zweig\/zweig-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -1390,6 +1388,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/politique\/2011\/04\/19\/lapres-shame.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/04\/19\/lapres-shame.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/js\/main-ck.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -1407,15 +1414,6 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/works\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/politique\/2011\/04\/19\/lapres-shame.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/04\/19\/lapres-shame.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1500,15 +1498,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg" : {
+    "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg",
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg",
-      "initialSize" : 376815,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
+      "initialSize" : 286139,
       "fileType" : 4096
     },
     "\/_site\/img\/works\/ufab\/ufab-slide-3.jpg" : {
@@ -1533,15 +1531,15 @@
       "initialSize" : 19488,
       "fileType" : 8192
     },
-    "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg" : {
+    "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg",
       "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/nikita\/nikita-slide-1.jpg",
-      "initialSize" : 286139,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/deridder\/deridder-slide-2.jpg",
+      "initialSize" : 376815,
       "fileType" : 4096
     },
     "\/_site\/img\/works\/rdb\/rdb-slide-3.jpg" : {
@@ -1555,32 +1553,12 @@
       "initialSize" : 218295,
       "fileType" : 4096
     },
-    "\/_site\/img\/services.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/services.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/services.jpg",
-      "initialSize" : 134975,
-      "fileType" : 4096
-    },
     "\/_site\/politique\/2011\/05\/10\/incomprehension.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/_site\/politique\/2011\/05\/10\/incomprehension.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
-    },
-    "\/_site\/politique\/2011\/05\/27\/genoeg.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/05\/27\/genoeg.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
@@ -1593,6 +1571,26 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/yourfreeway\/yourfreeway-slide-2.jpg",
       "initialSize" : 36213,
+      "fileType" : 4096
+    },
+    "\/_site\/politique\/2011\/05\/27\/genoeg.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/politique\/2011\/05\/27\/genoeg.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
+    "\/_site\/img\/services.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/services.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/services.jpg",
+      "initialSize" : 134975,
       "fileType" : 4096
     },
     "\/img\/works\/afschrift\/icon.jpg" : {
@@ -1822,6 +1820,15 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
+    },
     "\/_site\/img\/works\/afschrift\/afschrift-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -1832,15 +1839,6 @@
       "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-1.jpg",
       "initialSize" : 1590755,
       "fileType" : 4096
-    },
-    "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/work\/2013\/03\/26\/comic-sans-cest-hype.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
     },
     "\/_site\/work\/2013\/06\/22\/mp6-un-coup-de-frais-sur-wordpress.html" : {
       "ignoreWasSetByUser" : 0,
@@ -2362,6 +2360,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
+    "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
+      "initialSize" : 1556238,
+      "fileType" : 4096
+    },
     "\/_site\/img\/works\/mvm\/mvm-slide-2.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2381,17 +2390,6 @@
       "inputAbbreviatedPath" : "\/_site\/works\/daardaar\/index.html",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
-    },
-    "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/afschrift\/afschrift-slide-2.jpg",
-      "initialSize" : 1556238,
-      "fileType" : 4096
     },
     "\/img\/works\/badger\/badger-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -2786,17 +2784,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/works\/simonnath\/simonnath-slide-3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/works\/simonnath\/simonnath-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/works\/simonnath\/simonnath-slide-3.jpg",
-      "initialSize" : 234270,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/chs\/chs-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2806,6 +2793,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/chs\/chs-slide-1.jpg",
       "initialSize" : 840285,
+      "fileType" : 4096
+    },
+    "\/img\/works\/simonnath\/simonnath-slide-3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/img\/works\/simonnath\/simonnath-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/works\/simonnath\/simonnath-slide-3.jpg",
+      "initialSize" : 234270,
       "fileType" : 4096
     },
     "\/_site\/img\/works\/afschrift\/afschrift-slide-3.jpg" : {
@@ -2943,17 +2941,6 @@
       "outputAbbreviatedPath" : "\/_site\/js\/owl-carousel\/owl.carousel.min-ck-ck.js",
       "fileType" : 64
     },
-    "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg",
-      "initialSize" : 427749,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/tgw\/icon.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -2963,6 +2950,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/tgw\/icon.jpg",
       "initialSize" : 63095,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/dekemmeter\/dekemmeter-slide-1.jpg",
+      "initialSize" : 427749,
       "fileType" : 4096
     },
     "\/_site\/img\/works\/rdb\/rdb-slide-1.jpg" : {
@@ -3418,17 +3416,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg",
-      "initialSize" : 552076,
-      "fileType" : 4096
-    },
     "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3438,6 +3425,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/_site\/img\/works\/kevin\/kevin-slide-1.jpg",
       "initialSize" : 282147,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/intercompta\/intercompta-slide-3.jpg",
+      "initialSize" : 552076,
       "fileType" : 4096
     },
     "\/_site\/blog\/2013\/un-site-collaboratif-sous-wordpress\/index.html" : {
@@ -3478,17 +3476,6 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/icons-lte-ie7.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/icons-lte-ie7.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/css\/icons-lte-ie7-ck.js",
-      "fileType" : 64
-    },
     "\/img\/yorick.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3499,6 +3486,17 @@
       "outputAbbreviatedPath" : "\/img\/yorick.jpg",
       "initialSize" : 33385,
       "fileType" : 4096
+    },
+    "\/css\/icons-lte-ie7.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/css\/icons-lte-ie7.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/css\/icons-lte-ie7-ck.js",
+      "fileType" : 64
     },
     "\/_site\/blog\/2014\/premier-roman-temps-voles\/index.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3737,17 +3735,6 @@
       "initialSize" : 234270,
       "fileType" : 4096
     },
-    "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg",
-      "initialSize" : 186376,
-      "fileType" : 4096
-    },
     "\/img\/bg-contact.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -3757,6 +3744,17 @@
       "processed" : 1,
       "outputAbbreviatedPath" : "\/img\/bg-contact.jpg",
       "initialSize" : 54106,
+      "fileType" : 4096
+    },
+    "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/equinoxe\/equinoxe-slide-3.jpg",
+      "initialSize" : 186376,
       "fileType" : 4096
     },
     "\/_site\/css\/style.css" : {
@@ -3830,14 +3828,17 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/works\/objectifbd\/index.html" : {
+    "\/css\/_home.scss" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/works\/objectifbd\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/css\/_home.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/css\/_home.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/_site\/blog\/2016\/05\/30\/nouveaudepart.html" : {
       "ignoreWasSetByUser" : 0,
@@ -3848,16 +3849,14 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/img\/works\/ufab\/ufab-slide-3.jpg" : {
+    "\/_site\/works\/objectifbd\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
-      "processed" : 1,
-      "outputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
-      "initialSize" : 287393,
-      "fileType" : 4096
+      "inputAbbreviatedPath" : "\/_site\/works\/objectifbd\/index.html",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 2048
     },
     "\/img\/works\/yourfreeway\/icon.jpg" : {
       "ignoreWasSetByUser" : 0,
@@ -3879,17 +3878,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/css\/_home.scss" : {
+    "\/img\/works\/ufab\/ufab-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/css\/_home.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/css\/_home.css",
-      "fileType" : 4,
-      "debugStyle" : 0
+      "inputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/img\/works\/ufab\/ufab-slide-3.jpg",
+      "initialSize" : 287393,
+      "fileType" : 4096
     },
     "\/_site\/js\/html5shiv.js" : {
       "ignoreWasSetByUser" : 0,
@@ -4262,14 +4260,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 2048
     },
-    "\/_site\/works\/armacutis\/index.html" : {
+    "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/_site\/works\/armacutis\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 2048
+      "inputAbbreviatedPath" : "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg",
+      "processed" : 1,
+      "outputAbbreviatedPath" : "\/_site\/img\/works\/pimentplume\/pimentplume-slide-3.jpg",
+      "initialSize" : 563505,
+      "fileType" : 4096
     }
   },
   "manualImportLinks" : [
