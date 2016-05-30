@@ -1,9 +1,8 @@
 ---
-layout: blog
+layout: post
 title:  "Un nouveau départ"
 date:   2016-05-30 10:00:00
 categories: blog
-permalink: blog/nouveaudepart/
 description: Les tout premiers pas dans une nouvelle vie, toujours terrifiants
 ---
 

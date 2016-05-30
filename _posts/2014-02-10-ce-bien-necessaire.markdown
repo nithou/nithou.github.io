@@ -1,0 +1,15 @@
+---
+layout: post
+title: Est-ce bien nécessaire ?
+date: 2014-02-10 14:27:19.000000000 +01:00
+type: post
+published: true
+status: publish
+categories: blog
+description: '"On m''a dit qu''il fallait que je tienne un blog, je dois vraiment écrire
+  un blog ?". Hé bien non, si vous ne trouvez pas ça nécessaire, évitez.'
+---
+<p>C'est en regardant une superbe conférence de Brad Frost <a href="http://www.youtube.com/watch?v=nE0CRMm59BY">Death To Bullsh*t</a> qu'une phrase m'a interpellée : "The futur is about respect, respect people's time" (<em>Le futur c'est le respect, respectez le temps des gens</em>). Dans cette conférence, Brad Frost soulevait aussi à quel point nous sommes chanceux d'avoir des gens qui lisent nos sites (Toi, oui toi ! Lecteur chéri, mon amour, je t'aime !), et qu'il fallait chérir et respecter ce temps qui nous était ainsi donné.</p>
+<p>J'ai aussi mis rapidement cette citation en parallèle avec une conversation récente avec un client qui, d'un air peu confiant, me déclarait : "On m'a dit qu'il fallait que je tienne un blog, je dois vraiment écrire un blog ?". Hé bien non, simplement non. Même si votre amie experte SEO, ou votre ami mordu de marketing vous y poussent, et bien que le blog soit un outil de référencement assez efficace (à condition de s'y tenir, pas exactement comme votre humble serviteur), force est de reconnaitre que dans beaucoup de cas, certains se retrouvent avec des blogs dont ils ne savent quoi faire et qui, un mois après leur lancement, n'affichent toujours qu'un malheureux <strong>Hello World</strong>. Triste et inutile.</p>
+<p>Au plus j'entends de grandes vérités assenées à la matraque, au plus me revient en tête un mantra souvent entendu sur le web : <em>ça dépend</em>. Non un blog n'est pas forcément nécessaire, non vous n'avez pas forcément besoin d'un serveur dédié, non vous n'avez pas absolument besoin de vous inscrire sur Pinterest, non une page Google+ n'est pas une étape obligée, ... A l'heure où l'Internet grossit de plus en plus, tout un chacun saura vous remercier de ne pas accroître la tonne de sites morts, abandonnés, délaissés, ...</p>
+<p>Et à l'heure où je vois beaucoup de gens râler sur les nouvelles règles mises en place par Google pour le référencement, règles qui, de plus en plus logiquement, mettent en avant et en valeur le contenu, je préfère concentrer mes efforts à travailler, retravailler et améliorer ce contenu principal plutôt que de fragmenter les efforts sur des <strong>zones accessoires</strong>.</p>
