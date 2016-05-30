@@ -13,6 +13,7 @@ icon: /img/works/pillows/icon.jpg
 role: identity creation
 description: Identity work for Pillows Factory an Identity Agency I helped to create, oriented towards small companies
 ---
+
 Pillows Factory was an Identity Agency I helped to create, oriented towards small companies, with a strong identity. When we created the global identity (with [Berenice Moldawski](http://be.linkedin.com/pub/berenice-moldawski/75/a10/53) ), we wanted to create a high-end identity, something the people wanted to touch, to feel.
 
 <img src="../../img/works/pillows/pillows-cards.jpg" alt="Letterpress cards for Pillows Factory" class="left" />
