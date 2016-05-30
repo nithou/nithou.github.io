@@ -124,16 +124,29 @@ nav li {
   font-size: 3.5em;
   text-align: center;
   padding-top: 1em;
-  text-shadow: 4px 4px 1px #626262; }
+  text-shadow: 4px 4px 1px #626262;
+  width: 100%; }
+
+.sub-tagline {
+  color: white;
+  font-family: 'Fenix', serif;
+  text-transform: none;
+  z-index: 99999;
+  position: absolute;
+  font-size: 2em;
+  text-align: center;
+  padding-top: 4em;
+  text-shadow: 2px 2px 1px #626262;
+  width: 100%; }
 
 .avatar {
   width: 150px;
   height: 150px;
   border-radius: 150px;
   background-color: #fdfdfd;
-  background-image: url("http://www.vandereecken.me/img/icon.jpg");
-  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.nithou.net/portrait.jpg',sizingMethod='scale');
-  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.nithou.net/portrait.jpg',sizingMethod='scale')";
+  background-image: url("/img/icon.jpg");
+  filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/icon.jpg',sizingMethod='scale');
+  -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/icon.jpg',sizingMethod='scale')";
   background-size: 100%;
   position: absolute;
   bottom: -75px;
@@ -201,36 +214,6 @@ nav li {
 .col-right {
   width: 47.5%;
   margin-left: 2.5%; }
-
-.links {
-  padding-bottom: 4em; }
-
-.links ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  font-family: 'Fenix', serif; }
-  .links ul li {
-    display: block;
-    margin-left: 0;
-    margin-bottom: 1em; }
-  .links ul a {
-    border-bottom: 0px white solid;
-    font-size: 1.2em;
-    overflow: auto; }
-    .links ul a:hover {
-      color: #626262; }
-  .links ul .date {
-    font-size: 0.8em;
-    color: #cccccc;
-    line-height: 2em;
-    height: 2em;
-    width: 6.5em;
-    text-transform: uppercase;
-    display: inline-block;
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 800;
-    float: left; }
 
 /* CONSTRUCTION */
 .wrapper {
@@ -544,8 +527,37 @@ footer {
   footer p {
     line-height: 1.4em; }
   footer small {
-    font-family: 'Fenix', serif;
-    font-style: italic; }
+    font-family: 'Fenix', serif; }
+
+.links {
+  padding-bottom: 4em; }
+
+.links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  font-family: 'Fenix', serif; }
+  .links ul li {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 1em; }
+  .links ul a {
+    border-bottom: 0px white solid;
+    font-size: 1.2em;
+    overflow: auto; }
+    .links ul a:hover {
+      color: #626262; }
+  .links ul .date {
+    font-size: 0.8em;
+    color: #cccccc;
+    line-height: 2em;
+    height: 2em;
+    width: 6.5em;
+    text-transform: uppercase;
+    display: inline-block;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+    float: left; }
 
 /* WORK DISPLAY */
 .big-header {
@@ -668,8 +680,8 @@ footer {
     #category li .info h3 {
       font-size: 1.5em;
       padding-top: 1.5em;
-      font-family: 'Libre Baskerville','Baskerville', 'Chancery', serif;
-      font-style: italic; }
+      font-family: 'Fenix', serif;
+      text-transform: lowercase; }
   #category li:hover .info {
     opacity: 1; }
   #category li:hover .info h2 {

@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="post post-list links wrapper">
+    
+    <h1>Tous les billets</h1>
+    <h2>Pensées diverses et variées</h2>
+
+            <ul>
+                {% for post in site.categories.blog %}
+                    <li><span class="date">{{ post.date | date:"%d/%m/%Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+                {% endfor %}
+            </ul>
+    
+</div>

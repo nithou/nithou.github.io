@@ -11,7 +11,7 @@ pic1: /img/works/pimentplume/pimentplume-slide-1.jpg
 pic2: /img/works/pimentplume/pimentplume-slide-2.jpg
 pic3: /img/works/pimentplume/pimentplume-slide-3.jpg
 icon: /img/works/pimentplume/icon.jpg
-role: identiy & webdesign
+role: identity & webdesign
 description: Identity & webshop for Piment Plume
 ---
 Piment Plume is a love shop not like just everyone else. Created by a couple who wanted to offer and experience of beauty & high-end products to the couples. They asked me to create an identity that evokes both **the sweetness and the more kinky / hot side** of the love shop. All together, after some tries, we created the global identity of Piment Plume, with a logo representing both of their sides (the feather & the pepper), and a handwritten font. The colors were chosen to represent both the **high-end** idea but also the sweetness of the loveshop.
