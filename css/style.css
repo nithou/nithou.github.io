@@ -468,6 +468,23 @@ header {
     transition: all 0.2s ease-in; }
   #contact a:hover {
     border-bottom-color: #d43b1d; }
+  #contact .button {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400;
+    color: white;
+    padding: 0.5em;
+    border: 3px white solid;
+    text-transform: uppercase;
+    margin: 2em auto;
+    -webkit-transition: all 0.5s ease-in;
+    -moz-transition: all 0.5s ease-in;
+    -ms-transition: all 0.5s ease-in;
+    -o-transition: all 0.5s ease-in;
+    transition: all 0.5s ease-in; }
+  #contact .button:hover {
+    background-color: #626262;
+    border: 3px #626262 solid;
+    color: white; }
 
 #curtain {
   margin-bottom: 18em;

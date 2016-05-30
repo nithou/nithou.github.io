@@ -33,5 +33,3 @@ categories: blog
 <p><strong>Update 28/06 13:45 :</strong> Il semblerait que le nom de domaine vient d'être racheté et que le transfert soit en cours.</p>
 <p>M.R. : Tant qu'à s'indigner sur une somme d'argent, il serait par contre intéressant de voir le nombre de personnes de la fonction publique impliquées dans le processus de décisions et de réunions et de voir la somme dépensée exactement pour ce temps (en terme de salaires) ;)</p>
 <p>C.D.H. : <a href="http://www.rtl.be/info/belgique/politique/1013710/voici-le-nouveau-logo-de-la-wallonie-un-logo-a-537-000a-">Additionner le prix du logo au prix du rapport McKinsey</a> relève pour le coup d'une mauvaise foi journalistique assez crasse, ces deux éléments ayant été effectués par des entreprises totalement différentes.</p>
-<p>ECOLO : Ci-dessous le logo avec ses auras :</p>
-<p><a href="http://www.nithou.net/billets/graphisme-billets/scandalia-be/attachment/1053162_10151739564580086_529628122_o" rel="attachment wp-att-2278"><img src="{{ site.baseurl }}/assets/1053162_10151739564580086_529628122_o.jpg" alt="Wallonia.be et les auras" width="2508" height="1024" class="aligncenter size-full wp-image-2278" /></a></p>

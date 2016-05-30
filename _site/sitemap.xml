@@ -245,15 +245,6 @@
   </url>
   
   <url>
-    <loc>http://vandereecken.me/blog/2013/06/26/mini-cms-pour-maxi-resultats.html</loc>
-    
-    <lastmod>2013-06-26T17:51:50+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
     <loc>http://vandereecken.me/blog/2013/06/24/un-site-collaboratif-sous-wordpress.html</loc>
     
     <lastmod>2013-06-24T08:20:42+02:00</lastmod>
@@ -320,15 +311,6 @@
     <loc>http://vandereecken.me/works/elenkos/</loc>
     
     <lastmod>2011-10-14T20:09:13+02:00</lastmod>
-    
-    <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <url>
-    <loc>http://vandereecken.me/blog/2011/05/25/le-web-lecole.html</loc>
-    
-    <lastmod>2011-05-25T14:03:43+02:00</lastmod>
     
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
