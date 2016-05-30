@@ -1,6 +1,4 @@
-@import url(https://fonts.googleapis.com/css?family=Montserrat);
-@import url(https://fonts.googleapis.com/css?family=Fenix);
-@import url(http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic&subset=all);
+@import url(https://fonts.googleapis.com/css?family=Montserrat|Fenix);
 @font-face {
   font-family: 'icomoon';
   src: url("../webfonts/icomoon.eot?m2ms3o");
