@@ -320,6 +320,8 @@
   
   
   
+  
+  
   <url>
     <loc>http://vandereecken.me/freebies/</loc>
     <lastmod>2015-03-01T18:49:30+01:00</lastmod>
@@ -329,14 +331,16 @@
   
   
   
-  
-  
   <url>
     <loc>http://vandereecken.me/</loc>
     <lastmod>2015-03-01T18:49:30+01:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
+  
+  
+  
+  
   
   
   

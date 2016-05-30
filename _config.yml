@@ -1,5 +1,5 @@
-name: "Simon Vandereecken"
-description: "Portfolio de Simon Vandereecken, couteau suisse belge en design digital"
+name: Simon Vandereecken
+description: Portfolio de Simon Vandereecken, couteau suisse belge en design digital
 timezone: Europe/Brussels
 url: http://vandereecken.me
 permalink: /:categories/:year/:title/
