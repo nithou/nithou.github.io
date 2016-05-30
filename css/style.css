@@ -570,6 +570,9 @@ footer {
     font-weight: 800;
     float: left; }
 
+.post-list a:hover {
+  color: #626262; }
+
 /* WORK DISPLAY */
 .big-header {
   height: 37em;

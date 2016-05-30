@@ -277,11 +277,11 @@ img{
 	background-color:$orange;
 	padding:2em 0;
 	box-shadow:0 3px 5px rgba(0,0,0,0.3);
-    
+
     color:white;
-    
+
     h2 {color:white;}
-    
+
      a {
 	color:white;
 	font-weight:bold;
@@ -292,7 +292,7 @@ img{
     a:hover {
         border-bottom-color:$orange;
     }
-    
+
     	.button {
 			font-family: 'Montserrat', sans-serif;
 			font-weight: 400;
@@ -371,20 +371,20 @@ footer {
     margin:0;
     padding:0;
     font-family:'Fenix', serif;
-    
+
     li {
         display:block;
         margin-left:0;
         margin-bottom: 1em;
     }
-    
+
     a {
         border-bottom:0px white solid;
         &:hover {color:$grey;}
         font-size:1.2em;
         overflow: auto;
     }
-    
+
     .date {
         font-size:0.8em;
         color:$pale;
@@ -397,4 +397,8 @@ footer {
         font-weight:800;
         float:left;
     }
+}
+
+.post-list a:hover {
+	color:$grey;
 }
