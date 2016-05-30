@@ -135,7 +135,7 @@
     ul {list-style:none;margin:0;padding:0;}
     a {display: block;line-height:0;}
     li {float:left;margin:0;padding:0;width:20%;}
-    img {width:100%;}
+    img {width:100%;@include animation(opacity 0.25s ease-in);}
     
-    a:hover img {opacity:0.7;}
+    a:hover img {opacity:0.5;}
 }
