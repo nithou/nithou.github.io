@@ -234,6 +234,8 @@ nav li {
     width: 20%; }
   .work-examples img {
     width: 100%; }
+  .work-examples a:hover img {
+    opacity: 0.7; }
 
 /* CONSTRUCTION */
 .wrapper {
