@@ -3,7 +3,7 @@ layout: post
 title:  "Un nouveau départ"
 date:   2016-05-30 10:00:00
 categories: blog
-description: Les tout premiers pas dans une nouvelle vie, toujours terrifiants
+description: Après plusieurs mois de réflexion, j'ai enfin sauté le pas et rendu ma démission pour devenir freelance full-time. Beaucoup de défis s'annoncent mais l'expérience promet d'être enrichissante.
 ---
 
 Cela faisait plusieurs années que l’idée me trottait en tête, sans jamais vraiment pouvoir la concrétiser. Plusieurs années déjà que j’exerçais aussi bien en tant qu’employé qu’en tant qu’indépendant complémentaire, jusqu’au jour où je me suis rendu compte que maintenir les deux n’était plus possible.
