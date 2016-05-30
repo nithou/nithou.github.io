@@ -8,6 +8,6 @@ Personal website project
 - Clients testimonials & Contact (mailchimp cfr Paul Jarvis)
 
 ## Add :
-- Daardaar
+- Présences
 - Fedora Wilder
 

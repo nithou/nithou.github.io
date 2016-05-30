@@ -482,9 +482,9 @@ header {
     -o-transition: all 0.5s ease-in;
     transition: all 0.5s ease-in; }
   #contact .button:hover {
-    background-color: #626262;
-    border: 3px #626262 solid;
-    color: white; }
+    background-color: white;
+    border: 3px white solid;
+    color: #d43b1d; }
 
 #curtain {
   margin-bottom: 18em;
