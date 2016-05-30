@@ -3,7 +3,6 @@ layout: post
 title: Apprendre chaque jour
 date: 2014-03-12
 categories: blog
-status: cleaned
 ---
 Quand je regarde ces dernières années, je me rends compte des pas de géant qui m'ont peu à peu amené où j'en suis aujourd'hui. Parti avec une certaine arrogance de la jeunesse, j'ai peu à peu appris à ouvrir les yeux, à découvrir le monde qui m'entoure, et à apprendre, chaque jour, un peu plus.
 

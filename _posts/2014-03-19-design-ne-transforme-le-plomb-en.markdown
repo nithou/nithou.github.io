@@ -3,7 +3,6 @@ layout: post
 title: Aucun design ne transforme le plomb en or
 date: 2014-03-19
 categories: blog
-status: cleaned
 ---
 Je vois souvent un designer appelé à la rescousse pour tenter de **rattraper un projet bancal** pour, en appliquant deux trois coups de pinceaux bien placés, redresser soudainement des chiffres de vente ou faire venir soudainement un torrent de visiteurs matérialisés depuis l'éther.
 

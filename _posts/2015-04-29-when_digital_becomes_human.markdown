@@ -1,10 +1,7 @@
 ---
 layout: post
 title: Lecture "When Digital Becomes Human"
-date: 2015-04-29 11:39:56.000000000 +01:00
-type: post
-published: true
-status: publish
+date: 2015-04-29
 categories: blog
 ---
 

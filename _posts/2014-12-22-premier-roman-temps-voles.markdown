@@ -3,7 +3,6 @@ layout: post
 title: Premier roman "Temps Volés"
 date: 2014-12-22
 categories: blog
-status: cleaned
 ---
 J'ai longtemps aimé écrire, j'ai passé de longues heures à noircir des pages, à imaginer des mondes, des histoires, des moments, mais je n'avais, jusqu'ici, jamais dépassé le stade de la petite nouvelle. Cette année, pris par un désir de vraiment tenter quelque chose de différent, je me suis inscrit au [NaNoWriMo](http://nanowrimo.org), bien décidé à atteindre la barre des 50 000 mots demandés. Je n'avais pas vraiment réalisé la taille, c'est en revenant sur une ancienne nouvelle que je me suis rendu compte qu'elle ne comptait que 3000 mots et qu'il y avait du boulot à abattre.
 
