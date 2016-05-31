@@ -1,0 +1,26 @@
+{% include header.html %}
+<div id="curtain">
+<header>
+
+	<div id="logo">
+  		<a href="{{ site.url }}" alt="Accueil - Simon Vandereecken" title="Retourner à l'accueil">
+  			<span class="cust-icon-nithou-logo"></span>
+  		</a>
+	</div>
+
+	<nav id="top-menu" role="navigation" class="nav-collapse">
+		<ul>
+			<li><a href="{{ site.url }}">Accueil</a></li>
+			<li><a href="/works/">Case studies</a></li>
+			<li><a href="/blog/">Blog</a></li>
+			<li><a href="#contact" alt="Un projet ?" class="contact">Un projet&nbsp;?</a></li>
+		</ul>
+	</nav>
+
+	<div class="clear"></div>
+
+</header>
+
+{{ content }}
+
+{% include footer.html %}
