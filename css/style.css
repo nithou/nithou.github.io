@@ -5,6 +5,7 @@
   src: url("../webfonts/icomoon.eot?#iefixm2ms3o") format("embedded-opentype"), url("../webfonts/icomoon.ttf?m2ms3o") format("truetype"), url("../webfonts/icomoon.woff?m2ms3o") format("woff"), url("../webfonts/icomoon.svg?m2ms3o#icomoon") format("svg");
   font-weight: normal;
   font-style: normal; }
+
 [class*="cust-icon-"] {
   font-family: 'icomoon';
   speak: none;
@@ -925,7 +926,7 @@ footer {
   max-height: 9999px; }
 
 .nav-toggle {
-  -webkit-tap-highlight-color: transparent;
+  -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
   -webkit-touch-callout: none;
   -webkit-user-select: none;
   -moz-user-select: none;
@@ -1382,5 +1383,3 @@ footer {
 
   .freebie-title {
     margin-top: 1em !important; } }
-
-/*# sourceMappingURL=style.css.map */
