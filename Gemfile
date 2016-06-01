@@ -11,4 +11,5 @@ group :jekyll_plugins do
 	gem 'jekyll-sitemap'
 	gem 'jekyll-feed'
 	gem 'jekyll-assets'
+	gem 'octopress-minify-html'
 end
