@@ -601,6 +601,7 @@ footer {
 /* WORK DISPLAY */
 .work .work-info {
   padding: 0 0;
+  height: 4em;
   background-color: #626262;
   font-family: "Montserrat", sans-serif; }
 
@@ -622,9 +623,6 @@ footer {
   -ms-transition: background-color .5s ease-in;
   -o-transition: background-color .5s ease-in;
   transition: background-color .5s ease-in; }
-
-.work .work-info a:hover {
-  background-color: #d43b1d; }
 
 .work .work-info .share a {
   width: 4em;
