@@ -125,12 +125,12 @@
         color:#f0513b;
     }
 
+    .bordertop {
+       border-color:#f0513b;
+    }
+
     .work-info {
         background-color:#f0513b;
-    }
-    
-    .bordertop {
-	   border-color:#f0513b;
     }
 
     .work-info a {
@@ -138,7 +138,8 @@
     }
 
     .work-info a:hover {
-        background-color:#626262;
+        background-color:white;
+        color:#f0513b;
     }
 
     header ul .contact {
@@ -177,73 +178,60 @@
 </style>
 <link rel="stylesheet" href="/css/animate.css">
 
-<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
-
-<section class="owl-carousel bordertop" id="slider">
-
-	
-	<div style="background-image:url('/img/works/yourfreeway/yourfreeway-slide-1.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/yourfreeway/yourfreeway-slide-2.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/yourfreeway/yourfreeway-slide-3.jpg');" class="big-header"></div>
-	
-
-</section>
-
-<script>
-$(document).ready(function() {
-
-  $("#slider").owlCarousel({
-  	navigation : false,
-  	pagination: true,
-  	slideSpeed : 500,
-  	paginationSpeed : 500,
-  	stopOnHover : true,
-  	autoPlay : true,
-  	singleItem : true,
-  	lazyLoad : true
-  });
-
-});
-</script>
+<header id="work-header">
+    <div class="wrapper">
+        <h1>Yourfreeway</h1>
+        <h2>identiy & webdesign</h2>
+    </div>
+</header>
 
 <div class="work-info">
-	<div class="back-link">
-		<a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
-	</div>
+        <div class="back-link">
+            <a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
+        </div>
 
-	
-	<div class="work-url">
-		<a href="http://www.yourfreeway.net/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.yourfreeway.net/</a></a>
-	</div>
-	
+        
+        <div class="work-url">
+            <a href="http://www.yourfreeway.net/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.yourfreeway.net/</a></a>
+        </div>
+        
 
-	<div class="share">
-		<a href="https://twitter.com/intent/tweet?text=Yourfreeway%20&url=http%3A%2F%2Fvandereecken.me/works/yourfreeway/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/yourfreeway/" class="icon-facebook fb popup" target="_blank"></a>
+        <div class="share">
+            <a href="https://twitter.com/intent/tweet?text=Yourfreeway%20&url=http%3A%2F%2Fvandereecken.me/works/yourfreeway/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
+            <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/yourfreeway/" class="icon-facebook fb popup" target="_blank"></a>
 
-	</div>
+        </div>
 
-	<div class="clear"></div>
-
+        <div class="clear"></div>
 </div>
 
-<div class="post wrapper">
+<!-- START CONTENT -->
 
-	<h1>Yourfreeway</h1>
-	<h2>identiy & webdesign</h2>
-	<p>Yourfreeway is world-known recruitment company for executives. It aims to provide the perfect candidates for the perfect jobs, aiming toward greatness and human beings. It’s directed by Florence Marichal, with more than 20 years of International Executive Search and assessment experience.</p>
+<div class="grid">
+    <div class="col-1-2 wow fadeInLeft">
+        <div class="padder">
+            <p>Yourfreeway is world-known recruitment company for executives. It aims to provide the perfect candidates for the perfect jobs, aiming toward greatness and human beings. It’s directed by Florence Marichal, with more than 20 years of International Executive Search and assessment experience.</p>
 
 <p>The logo was designed in collaboration with Florence aiming to display her will to get her candidates further ahead on the way they want to take, as she helps them direct their carreer.</p>
 
 <p>The webdesign is sleek, simple, providing direct access to the company’s most wanted services but also showing the diversity of the company’s clients.</p>
 
-
-	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="col-1-2 col-img wow fadeInRight" style="background-image:url('/img/works/yourfreeway/yourfreeway-slide-1.jpg');background-size:cover;">
+       &nbsp;
+    </div>
 </div>
+
+
+
+
+
+<script src="/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 
 
 
@@ -271,7 +259,7 @@ $(document).ready(function() {
 <footer class="wrapper">
   <p>&copy; 2016 Simon Vandereecken - Tous droits réservés<br/>
     BE 0888.547.615<br/>
-    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV - Resume</a><br/><br/>
+    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV</a><br/><br/>
   	<small>Dernière mise à jour : 01/06/2016</small></p>
 </footer>
 </div>

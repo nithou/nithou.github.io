@@ -1117,9 +1117,6 @@ footer {
     margin-top: 25%; }
 
 /* GRID */
-.grid {
-  background-color: white; }
-
 [class*='col-'] {
   float: left; }
 

@@ -125,12 +125,12 @@
         color:#C20F22;
     }
 
+    .bordertop {
+       border-color:#C20F22;
+    }
+
     .work-info {
         background-color:#C20F22;
-    }
-    
-    .bordertop {
-	   border-color:#C20F22;
     }
 
     .work-info a {
@@ -138,7 +138,8 @@
     }
 
     .work-info a:hover {
-        background-color:#626262;
+        background-color:white;
+        color:#C20F22;
     }
 
     header ul .contact {
@@ -177,73 +178,60 @@
 </style>
 <link rel="stylesheet" href="/css/animate.css">
 
-<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
-
-<section class="owl-carousel bordertop" id="slider">
-
-	
-	<div style="background-image:url('/img/works/badger/badger-slide-1.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/badger/badger-slide-2.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/badger/badger-slide-3.jpg');" class="big-header"></div>
-	
-
-</section>
-
-<script>
-$(document).ready(function() {
-
-  $("#slider").owlCarousel({
-  	navigation : false,
-  	pagination: true,
-  	slideSpeed : 500,
-  	paginationSpeed : 500,
-  	stopOnHover : true,
-  	autoPlay : true,
-  	singleItem : true,
-  	lazyLoad : true
-  });
-
-});
-</script>
+<header id="work-header">
+    <div class="wrapper">
+        <h1>Badger Prod</h1>
+        <h2>identity creation</h2>
+    </div>
+</header>
 
 <div class="work-info">
-	<div class="back-link">
-		<a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
-	</div>
+        <div class="back-link">
+            <a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
+        </div>
 
-	
-	<div class="work-url">
-		<a href="http://www.badgerprod.net" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.badgerprod.net</a></a>
-	</div>
-	
+        
+        <div class="work-url">
+            <a href="http://www.badgerprod.net" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.badgerprod.net</a></a>
+        </div>
+        
 
-	<div class="share">
-		<a href="https://twitter.com/intent/tweet?text=Badger Prod%20&url=http%3A%2F%2Fvandereecken.me/works/badgerproductions/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/badgerproductions/" class="icon-facebook fb popup" target="_blank"></a>
+        <div class="share">
+            <a href="https://twitter.com/intent/tweet?text=Badger Prod%20&url=http%3A%2F%2Fvandereecken.me/works/badgerproductions/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
+            <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/badgerproductions/" class="icon-facebook fb popup" target="_blank"></a>
 
-	</div>
+        </div>
 
-	<div class="clear"></div>
-
+        <div class="clear"></div>
 </div>
 
-<div class="post wrapper">
+<!-- START CONTENT -->
 
-	<h1>Badger Prod</h1>
-	<h2>identity creation</h2>
-	<p>Badger Productions is the name of <strong>Renaud Coppens</strong>’s company. He’s a freelance producer &amp; director. He created Badger Productions in 2010 and came to me in search of a logo.</p>
+<div class="grid">
+    <div class="col-1-2 wow fadeInLeft">
+        <div class="padder">
+            <p>Badger Productions is the name of <strong>Renaud Coppens</strong>’s company. He’s a freelance producer &amp; director. He created Badger Productions in 2010 and came to me in search of a logo.</p>
 
 <p>I started by submitting a few design proposals based on his requests and personality. Little by little, I refined the concept until I reached the end result: a <strong>subtle play on the CSA symbols</strong>, which, at the same time, relates to the universe of television and adds a <strong>slightly off flavor</strong>, a typical trademark of Badger Productions.</p>
 
 <p>I then animated the logo and the name, playing with the graphical elements. You can have a look in this <a href="http://www.youtube.com/watch?v=sZUwR2t2Fs8">short animation</a> meant to be used at the end of his videos.</p>
 
-
-	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="col-1-2 col-img wow fadeInRight" style="background-image:url('/img/works/badger/badger-slide-1.jpg');background-size:cover;">
+       &nbsp;
+    </div>
 </div>
+
+
+
+
+
+<script src="/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 
 
 
@@ -271,7 +259,7 @@ $(document).ready(function() {
 <footer class="wrapper">
   <p>&copy; 2016 Simon Vandereecken - Tous droits réservés<br/>
     BE 0888.547.615<br/>
-    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV - Resume</a><br/><br/>
+    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV</a><br/><br/>
   	<small>Dernière mise à jour : 01/06/2016</small></p>
 </footer>
 </div>

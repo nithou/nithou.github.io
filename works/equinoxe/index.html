@@ -125,12 +125,12 @@
         color:#0b3150;
     }
 
+    .bordertop {
+       border-color:#0b3150;
+    }
+
     .work-info {
         background-color:#0b3150;
-    }
-    
-    .bordertop {
-	   border-color:#0b3150;
     }
 
     .work-info a {
@@ -138,7 +138,8 @@
     }
 
     .work-info a:hover {
-        background-color:#626262;
+        background-color:white;
+        color:#0b3150;
     }
 
     header ul .contact {
@@ -177,71 +178,58 @@
 </style>
 <link rel="stylesheet" href="/css/animate.css">
 
-<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
-
-<section class="owl-carousel bordertop" id="slider">
-
-	
-	<div style="background-image:url('/img/works/equinoxe/equinoxe-slide-1.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/equinoxe/equinoxe-slide-2.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/equinoxe/equinoxe-slide-3.jpg');" class="big-header"></div>
-	
-
-</section>
-
-<script>
-$(document).ready(function() {
-
-  $("#slider").owlCarousel({
-  	navigation : false,
-  	pagination: true,
-  	slideSpeed : 500,
-  	paginationSpeed : 500,
-  	stopOnHover : true,
-  	autoPlay : true,
-  	singleItem : true,
-  	lazyLoad : true
-  });
-
-});
-</script>
+<header id="work-header">
+    <div class="wrapper">
+        <h1>Equinoxe Audiovisual</h1>
+        <h2>business cards</h2>
+    </div>
+</header>
 
 <div class="work-info">
-	<div class="back-link">
-		<a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
-	</div>
+        <div class="back-link">
+            <a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
+        </div>
 
-	
-	<div class="work-url">
-		<a href="http://www.equinoxe-av.be/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.equinoxe-av.be/</a></a>
-	</div>
-	
+        
+        <div class="work-url">
+            <a href="http://www.equinoxe-av.be/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.equinoxe-av.be/</a></a>
+        </div>
+        
 
-	<div class="share">
-		<a href="https://twitter.com/intent/tweet?text=Equinoxe Audiovisual%20&url=http%3A%2F%2Fvandereecken.me/works/equinoxe/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/equinoxe/" class="icon-facebook fb popup" target="_blank"></a>
+        <div class="share">
+            <a href="https://twitter.com/intent/tweet?text=Equinoxe Audiovisual%20&url=http%3A%2F%2Fvandereecken.me/works/equinoxe/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
+            <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/equinoxe/" class="icon-facebook fb popup" target="_blank"></a>
 
-	</div>
+        </div>
 
-	<div class="clear"></div>
-
+        <div class="clear"></div>
 </div>
 
-<div class="post wrapper">
+<!-- START CONTENT -->
 
-	<h1>Equinoxe Audiovisual</h1>
-	<h2>business cards</h2>
-	<p>Equinoxe Audiovisual is an audiovisual company providing a lot of services to a wide range of clients. I was asked to propose a new layout for their business cards to give it a more <strong>serious and professional look</strong>.</p>
+<div class="grid">
+    <div class="col-1-2 wow fadeInLeft">
+        <div class="padder">
+            <p>Equinoxe Audiovisual is an audiovisual company providing a lot of services to a wide range of clients. I was asked to propose a new layout for their business cards to give it a more <strong>serious and professional look</strong>.</p>
 
 <p>The result is a sleek business card, in a deep blue tone, wish the small “e” of their logo appearing as a varnish on the front of the card.</p>
 
-
-	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="col-1-2 col-img wow fadeInRight" style="background-image:url('/img/works/equinoxe/equinoxe-slide-1.jpg');background-size:cover;">
+       &nbsp;
+    </div>
 </div>
+
+
+
+
+
+<script src="/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 
 
 
@@ -269,7 +257,7 @@ $(document).ready(function() {
 <footer class="wrapper">
   <p>&copy; 2016 Simon Vandereecken - Tous droits réservés<br/>
     BE 0888.547.615<br/>
-    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV - Resume</a><br/><br/>
+    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV</a><br/><br/>
   	<small>Dernière mise à jour : 01/06/2016</small></p>
 </footer>
 </div>

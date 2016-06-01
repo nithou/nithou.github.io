@@ -125,12 +125,12 @@
         color:#d2c6ac;
     }
 
+    .bordertop {
+       border-color:#d2c6ac;
+    }
+
     .work-info {
         background-color:#d2c6ac;
-    }
-    
-    .bordertop {
-	   border-color:#d2c6ac;
     }
 
     .work-info a {
@@ -138,7 +138,8 @@
     }
 
     .work-info a:hover {
-        background-color:#626262;
+        background-color:white;
+        color:#d2c6ac;
     }
 
     header ul .contact {
@@ -177,61 +178,35 @@
 </style>
 <link rel="stylesheet" href="/css/animate.css">
 
-<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
-
-<section class="owl-carousel bordertop" id="slider">
-
-	
-	<div style="background-image:url('/img/works/pillows/pillows-slide-1.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/pillows/pillows-slide-2.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/pillows/pillows-slide-3.jpg');" class="big-header"></div>
-	
-
-</section>
-
-<script>
-$(document).ready(function() {
-
-  $("#slider").owlCarousel({
-  	navigation : false,
-  	pagination: true,
-  	slideSpeed : 500,
-  	paginationSpeed : 500,
-  	stopOnHover : true,
-  	autoPlay : true,
-  	singleItem : true,
-  	lazyLoad : true
-  });
-
-});
-</script>
+<header id="work-header">
+    <div class="wrapper">
+        <h1>Pillows Factory</h1>
+        <h2>identity creation</h2>
+    </div>
+</header>
 
 <div class="work-info">
-	<div class="back-link">
-		<a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
-	</div>
+        <div class="back-link">
+            <a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
+        </div>
 
-	
+        
 
-	<div class="share">
-		<a href="https://twitter.com/intent/tweet?text=Pillows Factory%20&url=http%3A%2F%2Fvandereecken.me/works/pillowsfactory/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/pillowsfactory/" class="icon-facebook fb popup" target="_blank"></a>
+        <div class="share">
+            <a href="https://twitter.com/intent/tweet?text=Pillows Factory%20&url=http%3A%2F%2Fvandereecken.me/works/pillowsfactory/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
+            <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/pillowsfactory/" class="icon-facebook fb popup" target="_blank"></a>
 
-	</div>
+        </div>
 
-	<div class="clear"></div>
-
+        <div class="clear"></div>
 </div>
 
-<div class="post wrapper">
+<!-- START CONTENT -->
 
-	<h1>Pillows Factory</h1>
-	<h2>identity creation</h2>
-	<p>Pillows Factory was an Identity Agency I helped to create, oriented towards small companies, with a strong identity. When we created the global identity (with <a href="http://be.linkedin.com/pub/berenice-moldawski/75/a10/53">Berenice Moldawski</a> ), we wanted to create a high-end identity, something the people wanted to touch, to feel.</p>
+<div class="grid">
+    <div class="col-1-2 wow fadeInLeft">
+        <div class="padder">
+            <p>Pillows Factory was an Identity Agency I helped to create, oriented towards small companies, with a strong identity. When we created the global identity (with <a href="http://be.linkedin.com/pub/berenice-moldawski/75/a10/53">Berenice Moldawski</a> ), we wanted to create a high-end identity, something the people wanted to touch, to feel.</p>
 
 <p><img src="../../img/works/pillows/pillows-cards.jpg" alt="Letterpress cards for Pillows Factory" class="left" /></p>
 
@@ -241,9 +216,22 @@ $(document).ready(function() {
 
 <p>For the website, I wanted to give the same feeling as the print identity, something that <strong>you’d want to touch</strong>. So I worked a lot on the textures of the website, to reproduce the Macho papers. We also decided to use photos from pillow fights, with a little “retro” touch on it. The whole website had a real skeuomorphic feeling.</p>
 
-
-	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="col-1-2 col-img wow fadeInRight" style="background-image:url('/img/works/pillows/pillows-slide-1.jpg');background-size:cover;">
+       &nbsp;
+    </div>
 </div>
+
+
+
+
+
+<script src="/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 
 
 
@@ -271,7 +259,7 @@ $(document).ready(function() {
 <footer class="wrapper">
   <p>&copy; 2016 Simon Vandereecken - Tous droits réservés<br/>
     BE 0888.547.615<br/>
-    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV - Resume</a><br/><br/>
+    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV</a><br/><br/>
   	<small>Dernière mise à jour : 01/06/2016</small></p>
 </footer>
 </div>

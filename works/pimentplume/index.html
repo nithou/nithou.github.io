@@ -125,12 +125,12 @@
         color:#cfb372;
     }
 
+    .bordertop {
+       border-color:#cfb372;
+    }
+
     .work-info {
         background-color:#cfb372;
-    }
-    
-    .bordertop {
-	   border-color:#cfb372;
     }
 
     .work-info a {
@@ -138,7 +138,8 @@
     }
 
     .work-info a:hover {
-        background-color:#626262;
+        background-color:white;
+        color:#cfb372;
     }
 
     header ul .contact {
@@ -177,73 +178,60 @@
 </style>
 <link rel="stylesheet" href="/css/animate.css">
 
-<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
-
-<section class="owl-carousel bordertop" id="slider">
-
-	
-	<div style="background-image:url('/img/works/pimentplume/pimentplume-slide-1.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/pimentplume/pimentplume-slide-2.jpg');" class="big-header"></div>
-	
-	
-	<div style="background-image:url('/img/works/pimentplume/pimentplume-slide-3.jpg');" class="big-header"></div>
-	
-
-</section>
-
-<script>
-$(document).ready(function() {
-
-  $("#slider").owlCarousel({
-  	navigation : false,
-  	pagination: true,
-  	slideSpeed : 500,
-  	paginationSpeed : 500,
-  	stopOnHover : true,
-  	autoPlay : true,
-  	singleItem : true,
-  	lazyLoad : true
-  });
-
-});
-</script>
+<header id="work-header">
+    <div class="wrapper">
+        <h1>Piment Plume</h1>
+        <h2>identity & webdesign</h2>
+    </div>
+</header>
 
 <div class="work-info">
-	<div class="back-link">
-		<a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
-	</div>
+        <div class="back-link">
+            <a href="http://vandereecken.me/works/" class="icon-chevron-left"></a>
+        </div>
 
-	
-	<div class="work-url">
-		<a href="http://www.piment-plume.com/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.piment-plume.com/</a></a>
-	</div>
-	
+        
+        <div class="work-url">
+            <a href="http://www.piment-plume.com/" target="_blank"><span class="icon-globe"></span> <span class="full-url">http://www.piment-plume.com/</a></a>
+        </div>
+        
 
-	<div class="share">
-		<a href="https://twitter.com/intent/tweet?text=Piment Plume%20&url=http%3A%2F%2Fvandereecken.me/works/pimentplume/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
-		<a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/pimentplume/" class="icon-facebook fb popup" target="_blank"></a>
+        <div class="share">
+            <a href="https://twitter.com/intent/tweet?text=Piment Plume%20&url=http%3A%2F%2Fvandereecken.me/works/pimentplume/&via=nithou" class="icon-twitter tw popup" target="_blank"></a>
+            <a href="http://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fvandereecken.me/works/pimentplume/" class="icon-facebook fb popup" target="_blank"></a>
 
-	</div>
+        </div>
 
-	<div class="clear"></div>
-
+        <div class="clear"></div>
 </div>
 
-<div class="post wrapper">
+<!-- START CONTENT -->
 
-	<h1>Piment Plume</h1>
-	<h2>identity & webdesign</h2>
-	<p>Piment Plume is a love shop not like just everyone else. Created by a couple who wanted to offer and experience of beauty &amp; high-end products to the couples. They asked me to create an identity that evokes both <strong>the sweetness and the more kinky / hot side</strong> of the love shop. All together, after some tries, we created the global identity of Piment Plume, with a logo representing both of their sides (the feather &amp; the pepper), and a handwritten font. The colors were chosen to represent both the <strong>high-end</strong> idea but also the sweetness of the loveshop.</p>
+<div class="grid">
+    <div class="col-1-2 wow fadeInLeft">
+        <div class="padder">
+            <p>Piment Plume is a love shop not like just everyone else. Created by a couple who wanted to offer and experience of beauty &amp; high-end products to the couples. They asked me to create an identity that evokes both <strong>the sweetness and the more kinky / hot side</strong> of the love shop. All together, after some tries, we created the global identity of Piment Plume, with a logo representing both of their sides (the feather &amp; the pepper), and a handwritten font. The colors were chosen to represent both the <strong>high-end</strong> idea but also the sweetness of the loveshop.</p>
 
 <p>The whole website was built on the same ideas, presenting <strong>all the products</strong> offered by Piment Plume but, especially, their special box for the couples. The box offers eight articles aimed to the couples, promising to spend some delightful times and to both <strong>surprise and delight</strong>.</p>
 
 <p>The shop is now online and awaiting your orders, I can only recommend you to go there!</p>
 
-
-	<div class="clear"></div>
+        </div>
+    </div>
+    <div class="col-1-2 col-img wow fadeInRight" style="background-image:url('/img/works/pimentplume/pimentplume-slide-1.jpg');background-size:cover;">
+       &nbsp;
+    </div>
 </div>
+
+
+
+
+
+<script src="/js/wow.min.js"></script>
+<script>
+    new WOW().init();
+</script>
+
 
 
 
@@ -271,7 +259,7 @@ $(document).ready(function() {
 <footer class="wrapper">
   <p>&copy; 2016 Simon Vandereecken - Tous droits réservés<br/>
     BE 0888.547.615<br/>
-    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV - Resume</a><br/><br/>
+    <a href="https://github.com/nithou/Default-Conditions/blob/master/Conditions.md" target="_blank">Conditions générales de vente</a> | <a href="/cv/">CV</a><br/><br/>
   	<small>Dernière mise à jour : 01/06/2016</small></p>
 </footer>
 </div>
