@@ -10,6 +10,7 @@ gem 'jekyll-feed'
 gem 'jekyll-assets'
 group :jekyll_plugins do
    gem 'jekyll-contentblocks'
+   gem 'jekyll-truty'
 end
 
 # Compression system
