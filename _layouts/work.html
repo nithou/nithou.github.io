@@ -2,52 +2,11 @@
 layout: default
 ---
 
-<style>
+{% include single-style.html %}
 
-header #logo a:hover {
-	color:#{{ page.post_color }};
-}
+<script src="/js/owl-carousel/owl.carousel.min.js" async></script>
 
-.borderbottom, .bordertop {
-	border-color:#{{ page.post_color }};
-}
-
-.work-info a:hover {
-	background-color:#{{ page.post_color }};
-}
-
-header ul .contact {
-	background-color:#{{ page.post_color }};
-}
-
-footer {
-	border-color:#{{ page.post_color }};
-}
-
-footer a {
-	color:#{{ page.post_color }};
-}
-
-.content a, .post a {
-	color:#{{ page.post_color }};
-	border-color:#{{ page.post_color }};
-}
-
-.owl-theme .owl-controls .owl-page.active span, .owl-theme .owl-controls.clickable .owl-page:hover span {background:#{{ page.post_color }};}
-
-#contact {
-	background-color:#{{ page.post_color }};
-}
-
-#contact .button:hover {
-	color:#{{ page.post_color }};
-}
-
-#footer #touch a {color:#{{ page.post_color }};}
-
-</style>
-
-<section class="owl-carousel bordertop borderbottom" id="slider">
+<section class="owl-carousel bordertop" id="slider">
 
 	{% if page.pic1 %}
 	<div style="background-image:url('{{ page.pic1 }}');" class="big-header"></div>
