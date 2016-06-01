@@ -659,6 +659,20 @@ footer {
 .work header #logo a {
   color: #626262; }
 
+/* for blog posts */
+.single-post h1 {
+  margin-bottom: 0; }
+.single-post h2 {
+  margin-top: 0;
+  color: #cccccc; }
+.single-post .share-links {
+  padding: 4em 0; }
+  .single-post .share-links a {
+    border-bottom: none;
+    margin: 0 1em; }
+    .single-post .share-links a:hover {
+      color: #626262; }
+
 /* CATEGORIES */
 #category ul {
   margin: 0;
