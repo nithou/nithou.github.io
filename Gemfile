@@ -1,4 +1,4 @@
-source 'https://rubygems.org'
+source "https://rubygems.org"
 
 # System
 gem 'scss_lint'
@@ -12,5 +12,3 @@ group :jekyll_plugins do
 	gem 'jekyll-feed'
 	gem 'jekyll-assets'
 end
-
-# Compression system
