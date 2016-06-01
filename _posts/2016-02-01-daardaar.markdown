@@ -1,23 +1,50 @@
 ---
-layout: work
+layout: work-update
 title:  "DaarDaar"
 date:   2016-02-01 08:00:00
 categories: works
 custom_css: true
-short_url: http://daardaar.be
+short_url: http://www.daardaar.be
 permalink: works/daardaar/
 post_color: 6ca443
-pic1: /img/works/daardaar/daardaar-slide-1.jpg
-pic2: /img/works/daardaar/daardaar-slide-2.jpg
-pic3: /img/works/daardaar/daardaar-slide-3.jpg
+pic1: /img/works/daardaar/daardaar-1.jpg
+pic2: /img/works/daardaar/daardaar-2.jpg
+pic3: /img/works/daardaar/daardaar-3.gif
 icon: /img/works/daardaar/icon.jpg
-role: identity & webdesign
-description: Identity & website for DaarDaar
+role: branding & développement
+description: Branding et site internet de DaarDaar
 ---
-In a country divided by its different languages, there's not many bridges between communities. That's a problem DaarDaar aims to solve by providing **translated articles from Dutch-speaking newspapers to the French part** of Belgium.
 
-In 2015, David Charlier & Vincent Laborderie came to see me about this project. DaarDaar was just an idea at the moment that they wanted to build. Together we started to build this **new pure player in the Belgian landscape**. In some months, the first draft of DaarDaar was online, ready to receive feedback.
+### Le meilleur de la presse flamande en français
 
-The launch was a success with a lot of visitors already at the start (and which is still growing at the moment) and a steady progression. By using tools like **heatmaps**, **visitors analysis** and **user behavior** analysis, I was able to isolate which part of our beta version were useful to our visitors, and which weren't used at all (despite what we were thinking at the beginning), leading to the second and first "official" version of DaarDaar that you can see online.
+Dans un pays **divisé en deux** par ses langues, il existe très peu de ponts entre les deux communautés. C'est pourquoi quand David Charlier et Vincent Laborderie sont venus me trouver avec l'idée de créer DaarDaar, j'ai sauté sur l'occasion.
 
-The project is still ongoing with many things more to come so stay tuned ;)
+L'idée était de jouer sur une interjection flamande “*daar*” signifiant “*ici*”, et d'en faire une sorte d'équivalent de l'expression française “*ici et là*” évoquant l'idée de deux pôles communiquant, **échangeant des idées**, s'enrichissant l'un l'autre. Pour appuyer l'idée de **propagation de l'information**, nous avons décidé d'utiliser le **mégaphone** et de légères **ondes sonores**.
+
+Dans un pays très politilisé, il était assez difficile de choisir **une couleur convenant à DaarDaar** qui n'évoquerait pas les principaux partis politiques (excluant donc de facto le bleu et le rouge). Après plusieurs discussions, nous nous sommes orientés vers le **vert**, qui rappelle aussi d'autres applications connues (comme Spotify par exemple), et permettait d'éviter bien des accusations partisanes. 
+
+
+{% contentfor block-2 %}
+
+### Un site qui en a dans le ventre
+
+Le site s'articule sur une page d'accueil présentant **les douze articles les plus récents**, chacun des articles liant vers son **journal** et son auteur **d'origine**. Le site est propulsé entièrement par un moteur **WordPress** gérant toutes les variables nécessaires à la rédaction des articles : résumés, auteurs, traducteurs, images, copyright, ... (chaque article embarquant au **minimum dix variables**)
+
+Chaque article doit de plus gérer **plusieurs liens de parenté**. Il doit en effet contenir : son auteur d'origine, son journal d'origine, le traducteur affilié à DaarDaar, le lien vers l'article original (si disponible), ... L'ensemble est géré par un système de parenté multiple intégrément dans la rédaction de l'article qui rends la création de ces liens rapide et efficace.
+
+D'abord lancé en version béta, le site a été rapidement déployé dans sa première version finale. Un énorme travail a été fait sur base de **retours utilisateurs** (récoltés tout au long de la béta), mais aussi de divers outils d'analyse mis en place : **AB tests**, **heatmaps**, **tests utilisateurs**, ... qui nous ont permis d'affiner au mieux l'expérience de lecture.
+
+{% endcontentfor %}
+
+
+{% contentfor block-3 %}
+
+### L'actualité du bout des doigts
+
+Dès la sortie de la béta, nous avons voulu proposer aux lecteurs de DaarDaar une **véritable expérience mobile**, leur permettant de consulter leur nouveau site favorite n'importe où, du bout des doigts. Ainsi un grand travail a été fait sur l'**optimisation du chargement du site**, mais aussi sur la compression des images. De grosses avancées ont été faites aussi dans le domaine de l'accessibilité, par la mise en place d'un maximum de **règles de lisibilité**, de **contraste**, mais aussi de tags ARIA.
+
+Monitoré en continu, le site maintient de très bonnes performances même lors de gros pics de visite (comme on a pu l'analyser malheureusement lors des attentats de Bruxelles) et se **charge extrêmement rapidement** dans tous les cas de figure.
+
+Depuis le lancement, les retours utilisateurs sont **épatants** et le site remporte un **franc succès**, ayant même franchi la barre des **17 000€ à la clotûre de son crowdfunding** sur KissKissBankBank début juin. Un avenir prometteur s'annonce donc pour ce petit projet belge unique en son genre !
+
+{% endcontentfor %}

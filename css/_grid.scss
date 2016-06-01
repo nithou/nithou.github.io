@@ -1,0 +1,32 @@
+[class*='col-'] {
+  float: left;
+}
+
+.col-1-2 {
+    width:50%;
+}
+
+.col-img:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.grid:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+[class*='col-'] {
+  padding-right: 1em;
+}
+
+[class*='col-']:last-of-type {
+  padding-right: 0;
+}
+
+.grid .padder {
+    padding:1em 2.5em;
+    max-width:50em;
+}

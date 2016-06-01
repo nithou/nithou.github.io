@@ -82,3 +82,52 @@
 	  ul {font-size:20px;}
     li {margin-bottom:1em;}
 }
+
+/* Updated work */
+
+#work-header {
+    
+    background-color:white;
+    text-align: center;
+    
+    .wrapper {
+        padding-bottom: 2em;
+    }
+    
+    h1 {
+        margin-bottom: 0;
+        font-size:2em;
+    }
+    
+    h2 {
+        font-size:1em;
+        margin-top:0;
+        color:$grey;
+    }
+}
+
+.work {
+    header {
+        background-color:white;
+        color:$grey;
+    }
+    
+    header .nav-toggle, header #top-menu {
+        color:$grey;   
+    }
+    
+    header ul a {
+        color:$grey;
+        border-bottom-color:white;
+        &:hover {border-bottom-color:$grey;}
+    }
+    
+    header ul a.contact {
+        color:white;
+        &:hover {background-color:$grey;}
+    }
+    
+    header #logo a {
+        color:$grey;   
+    }
+}

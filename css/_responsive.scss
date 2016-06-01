@@ -35,6 +35,18 @@
 		margin:auto;
 		padding:0.5em 0;
 	}
+    
+    [class*='col-'] {
+      float: none;
+    }
+
+    .col-1-2 {
+      width: 100%;
+    }
+    
+    .col-1-2 .padder {
+        max-width:100%;
+    }
 
 	#contact-get {
 		float:none!important;
