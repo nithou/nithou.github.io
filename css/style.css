@@ -944,19 +944,6 @@ footer {
   .nav-toggle {
     display: none; } }
 /* WORK DISPLAY */
-.big-header {
-  height: 37em;
-  position: relative;
-  background-color: #fbfbfd;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  -webkit-transition: all 0.5s ease-in;
-  -moz-transition: all 0.5s ease-in;
-  -ms-transition: all 0.5s ease-in;
-  -o-transition: all 0.5s ease-in;
-  transition: all 0.5s ease-in; }
-
 .work-info {
   padding: 0 0;
   background-color: #626262;
@@ -989,40 +976,6 @@ footer {
   padding: 0 0;
   text-align: center; }
 
-.post {
-  padding-top: 3em;
-  padding-bottom: 4em; }
-  .post h1 {
-    margin: 0;
-    padding: 0; }
-  .post h2 {
-    margin: 0;
-    padding-top: 0;
-    padding-bottom: 1em;
-    font-family: 'Montserrat', sans-serif;
-    font-size: 1.1em;
-    color: #cccccc; }
-  .post .left {
-    float: left;
-    max-width: 75%;
-    margin-left: -50%;
-    padding-right: 1em;
-    padding-bottom: 1em;
-    left: 0; }
-  .post .share-links {
-    margin-top: 4em; }
-  .post .share-links a {
-    border-bottom: 0px solid white;
-    padding: 1em; }
-  .post .share-links a:hover {
-    color: #626262; }
-
-.single-post ul {
-  font-size: 20px; }
-.single-post li {
-  margin-bottom: 1em; }
-
-/* Updated work */
 #work-header {
   background-color: white;
   text-align: center; }
