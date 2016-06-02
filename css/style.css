@@ -541,6 +541,9 @@ footer {
 .post-list a:hover {
   color: #626262; }
 
+.post-list h2 {
+  font-size: 1.2em; }
+
 /* Responsive nav */
 .nav-collapse ul {
   margin: 0;
