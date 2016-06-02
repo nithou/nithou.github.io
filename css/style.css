@@ -251,11 +251,6 @@ nav li {
     font-style: normal;
     margin: 0; }
 
-@media screen and (max-width: 47em) {
-  .single-post blockquote, .work blockquote {
-    margin: 3em 0 3em 1em; }
-  .single-post p, .work p {
-    font-size: 1em; } }
 /* HOMEPAGE */
 .home-header {
   background-color: #626262;
