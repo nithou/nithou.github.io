@@ -236,7 +236,7 @@ nav li {
 
 .single-post blockquote, .work blockquote {
   position: relative;
-  margin-left: 4em; }
+  margin: 3em 0 3em 4em; }
   .single-post blockquote:before, .work blockquote:before {
     color: #ccc;
     font-size: 4em;
@@ -248,7 +248,8 @@ nav li {
     top: -0.2em; }
   .single-post blockquote p, .work blockquote p {
     font-size: 1.5em;
-    font-style: normal; }
+    font-style: normal;
+    margin: 0; }
 
 /* HOMEPAGE */
 .home-header {
