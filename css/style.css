@@ -189,7 +189,7 @@ h1 {
 p {
   line-height: 1.5em;
   font-family: 'Fenix', serif;
-  font-size: 20px; }
+  font-size: 21px; }
 
 nav li {
   font-family: 'Montserrat', sans-serif;
@@ -438,11 +438,14 @@ header {
       background-color: white;
       color: #d43b1d; }
 
+.work header #logo a:hover {
+  color: #d43b1d; }
+
 #curtain {
   margin-bottom: 20em;
   z-index: 2;
   position: relative;
-  background-color: #fbfbfd; }
+  background-color: white; }
 
 #footer {
   position: fixed;
@@ -659,12 +662,21 @@ footer {
 .work header #logo a {
   color: #626262; }
 
+.col-img {
+  position: relative;
+  background-size: cover; }
+  .col-img:after {
+    content: "";
+    display: block;
+    padding-bottom: 100%; }
+
 /* for blog posts */
 .single-post h1 {
   margin-bottom: 0; }
 .single-post h2 {
   margin-top: 0;
-  color: #cccccc; }
+  color: #cccccc;
+  font-size: 1.2em; }
 .single-post .share-links {
   padding: 4em 0; }
   .single-post .share-links a {
@@ -746,11 +758,6 @@ footer {
 
 .col-1-2 {
   width: 50%; }
-
-.col-img:after {
-  content: "";
-  display: block;
-  padding-bottom: 100%; }
 
 .grid:after {
   content: "";
