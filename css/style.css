@@ -931,7 +931,10 @@ footer {
     font-size: 2em; }
 
   .work-info a {
-    padding: 0 0.5em; } }
+    padding: 0 0.5em; }
+
+  blockquote {
+    margin: 3em 0 3em 1em; } }
 @media screen and (max-width: 30em) {
   h1 {
     font-size: 1.5em; }
