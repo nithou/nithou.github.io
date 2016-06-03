@@ -262,9 +262,6 @@ nav li {
   -o-transition: all 0.5s ease-in;
   transition: all 0.5s ease-in; }
 
-.home-pres {
-  background-color: #fbfbfd; }
-
 .home-pres h1 {
   color: #626262;
   text-align: center;
