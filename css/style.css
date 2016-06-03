@@ -712,13 +712,13 @@ footer {
     width: 10em;
     border-radius: 10em;
     float: left;
-    margin-right: 3em;
+    margin-right: 2em;
     overflow: hidden; }
     .testimonial .testimonial-img img {
       max-width: 100%; }
   .testimonial .testimonial-txt {
     position: relative;
-    margin-left: 13em; }
+    margin-left: 11em; }
     .testimonial .testimonial-txt footer p {
       font-family: 'Montserrat', sans-serif;
       font-size: 0.9em;
@@ -732,7 +732,7 @@ footer {
     margin: 0 auto 2em auto; }
 
   .testimonial .testimonial-txt {
-    margin-left: 0; }
+    margin-left: 1em; }
 
   .single-post blockquote, .work blockquote {
     margin: 0; } }
