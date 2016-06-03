@@ -822,7 +822,10 @@ footer {
 
   .single-post blockquote, .work blockquote {
     margin: 0;
-    margin-left: 1em; } }
+    margin-left: 1em; }
+
+  .grid .padder {
+    padding: 1em 1em; } }
 @media screen and (max-width: 43em) {
   header #top-menu {
     float: none; }
