@@ -718,7 +718,7 @@ footer {
       max-width: 100%; }
   .testimonial .testimonial-txt {
     position: relative;
-    margin-left: 10em; }
+    margin-left: 13em; }
     .testimonial .testimonial-txt footer p {
       font-family: 'Montserrat', sans-serif;
       font-size: 0.9em;
@@ -731,7 +731,7 @@ footer {
     float: none;
     margin: 0 auto 2em auto; }
 
-  .testimonial .testimonial-text {
+  .testimonial .testimonial-txt {
     margin-left: 0; }
 
   .single-post blockquote, .work blockquote {
