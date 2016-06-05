@@ -234,10 +234,10 @@ nav li {
   background-color: #fbfbfd;
   color: #626262; }
 
-.single-post blockquote, .work blockquote {
+blockquote {
   position: relative;
   margin: 3em 0 3em 4em; }
-  .single-post blockquote:before, .work blockquote:before {
+  blockquote:before {
     color: #ccc;
     font-size: 4em;
     content: "\201C";
@@ -246,10 +246,12 @@ nav li {
     position: absolute;
     left: -0.5em;
     top: -0.2em; }
-  .single-post blockquote p, .work blockquote p {
-    font-size: 1.5em;
-    font-style: normal;
-    margin: 0; }
+  blockquote footer p {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    margin-top: 1em;
+    text-align: left; }
 
 /* HOMEPAGE */
 #particles-js {
@@ -302,32 +304,15 @@ nav li {
   text-align: left;
   margin-top: 2em; }
 
-.work-examples {
-  margin-top: 4em;
-  margin-bottom: 4em;
-  border-top: #d43b1d 0.5em solid;
-  border-bottom: #d43b1d 0.5em solid; }
-  .work-examples ul {
-    list-style: none;
-    margin: 0;
-    padding: 0; }
-  .work-examples a {
-    display: block;
-    line-height: 0; }
-  .work-examples li {
-    float: left;
-    margin: 0;
-    padding: 0;
-    width: 20%; }
-  .work-examples img {
-    width: 100%;
-    -webkit-transition: opacity 0.25s ease-in;
-    -moz-transition: opacity 0.25s ease-in;
-    -ms-transition: opacity 0.25s ease-in;
-    -o-transition: opacity 0.25s ease-in;
-    transition: opacity 0.25s ease-in; }
-  .work-examples a:hover img {
-    opacity: 0.5; }
+.quote {
+  background-color: #d43b1d;
+  background-image: url(../img/bg-nodes.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+  margin: 4em 0;
+  padding: 2em; }
+  .quote p {
+    color: white; }
 
 /* CONSTRUCTION */
 *, *:after, *:before {
@@ -433,9 +418,9 @@ header {
     #footer #touch a:hover {
       color: #626262; }
 
-footer {
+#footer {
   text-align: center; }
-  footer a {
+  #footer a {
     color: #d43b1d;
     text-decoration: none;
     -webkit-transition: all 0.2s ease-in;
@@ -443,11 +428,11 @@ footer {
     -ms-transition: all 0.2s ease-in;
     -o-transition: all 0.2s ease-in;
     transition: all 0.2s ease-in; }
-    footer a:hover {
+    #footer a:hover {
       color: #626262; }
-  footer p {
+  #footer p {
     line-height: 1.4em; }
-  footer small {
+  #footer small {
     font-family: 'Fenix', serif; }
 
 /* Blog */
@@ -863,10 +848,7 @@ footer {
       margin-top: 1em;
       font-size: 2.5em; }
     #particles-js .sub-tagline {
-      margin-top: 2.5em; }
-
-  .work-examples {
-    display: none; } }
+      margin-top: 2.5em; } }
 @media screen and (max-width: 35em) {
   #category li {
     width: 100%; } }
