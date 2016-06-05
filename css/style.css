@@ -805,7 +805,7 @@ header {
   .testimonial .testimonial-txt {
     margin-left: 1em; }
 
-  .single-post blockquote, .work blockquote {
+  blockquote {
     margin: 0;
     margin-left: 1em; }
 
