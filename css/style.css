@@ -284,9 +284,9 @@ blockquote {
     height: 150px;
     border-radius: 150px;
     background-color: #fdfdfd;
-    background-image: url("/img/icon.jpg");
-    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/icon.jpg',sizingMethod='scale');
-    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/icon.jpg',sizingMethod='scale')";
+    background-image: url("/img/works/icon.jpg");
+    filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/works/icon.jpg',sizingMethod='scale');
+    -ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/img/works/icon.jpg',sizingMethod='scale')";
     background-size: 100%;
     position: absolute;
     bottom: -75px;
@@ -306,7 +306,7 @@ blockquote {
 
 .quote {
   background-color: #d43b1d;
-  background-image: url(../img/bg-nodes.jpg);
+  background-image: url(../img/works/bg-nodes.jpg);
   background-size: cover;
   background-attachment: fixed;
   margin: 4em 0;
