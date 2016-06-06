@@ -1,7 +1,0 @@
-#category li .info {
-  display:none!important;
-}
-
-#category li:hover .info {
-  display:block!important;
-}
