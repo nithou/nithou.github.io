@@ -201,11 +201,11 @@ nav li {
   font-weight: bold;
   text-decoration: none;
   border-bottom: 2px solid #d43b1d;
-  -webkit-transition: all 0.2s ease-in;
-  -moz-transition: all 0.2s ease-in;
-  -ms-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in; }
+  -webkit-transition: all 0.25s ease-in;
+  -moz-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in; }
 
 .content a:hover, .post a:hover {
   border-bottom-color: #fbfbfd; }
@@ -293,12 +293,7 @@ blockquote {
     left: 50%;
     margin-left: -75px;
     z-index: 9999;
-    border: 0.3em #fbfbfd solid;
-    -webkit-transition: all .5s ease-in;
-    -moz-transition: all .5s ease-in;
-    -ms-transition: all .5s ease-in;
-    -o-transition: all 0.5s ease-in;
-    transition: all .5s ease-in; }
+    border: 0.3em #fbfbfd solid; }
 
 #salute {
   text-align: left;
@@ -343,11 +338,11 @@ header {
       color: #fbfbfd;
       text-decoration: none;
       font-size: 1.6em;
-      -webkit-transition: all 0.5s ease-in;
-      -moz-transition: all 0.5s ease-in;
-      -ms-transition: all 0.5s ease-in;
-      -o-transition: all 0.5s ease-in;
-      transition: all 0.5s ease-in; }
+      -webkit-transition: all 0.25s ease-in;
+      -moz-transition: all 0.25s ease-in;
+      -ms-transition: all 0.25s ease-in;
+      -o-transition: all 0.25s ease-in;
+      transition: all 0.25s ease-in; }
       header #logo a:hover {
         color: #d43b1d; }
   header #top-menu {
@@ -367,14 +362,14 @@ header {
       color: #fbfbfd;
       font-size: 1em;
       text-decoration: none;
-      border-bottom: 0px solid #626262;
+      border-bottom: 4px solid #626262;
       padding-bottom: 0.5em;
       font-weight: lighter;
-      -webkit-transition: all 0.25s ease-in;
-      -moz-transition: all 0.25s ease-in;
-      -ms-transition: all 0.25s ease-in;
-      -o-transition: all 0.25s ease-in;
-      transition: all 0.25s ease-in; }
+      -webkit-transition: all 0.5s ease-in;
+      -moz-transition: all 0.5s ease-in;
+      -ms-transition: all 0.5s ease-in;
+      -o-transition: all 0.5s ease-in;
+      transition: all 0.5s ease-in; }
     header ul a:hover {
       border-bottom: 4px solid #fbfbfd; }
     header ul .contact {
@@ -572,11 +567,13 @@ header {
   display: block;
   float: left;
   padding: 0 1em;
-  -webkit-transition: background-color .5s ease-in;
-  -moz-transition: background-color .5s ease-in;
-  -ms-transition: background-color .5s ease-in;
-  -o-transition: background-color .5s ease-in;
-  transition: background-color .5s ease-in; }
+  -webkit-transition: all 0.25s ease-in;
+  -moz-transition: all 0.25s ease-in;
+  -ms-transition: all 0.25s ease-in;
+  -o-transition: all 0.25s ease-in;
+  transition: all 0.25s ease-in; }
+  .work .work-info a:hover {
+    background-color: white; }
 
 .work .work-info .share a {
   width: 4em;
@@ -674,11 +671,11 @@ header {
   margin: 0;
   float: left;
   width: 33.33333333%;
-  -webkit-transition: width 0.2s ease-in;
-  -moz-transition: width 0.2s ease-in;
-  -ms-transition: width 0.2s ease-in;
-  -o-transition: width 0.2s ease-in;
-  transition: width 0.2s ease-in;
+  -webkit-transition: width 0.25s ease-in;
+  -moz-transition: width 0.25s ease-in;
+  -ms-transition: width 0.25s ease-in;
+  -o-transition: width 0.25s ease-in;
+  transition: width 0.25s ease-in;
   position: relative; }
   #category li a {
     display: block;
@@ -695,22 +692,22 @@ header {
     width: 100%;
     height: 100%;
     text-align: center;
-    -webkit-transition: opacity 0.2s ease-in;
-    -moz-transition: opacity 0.2s ease-in;
-    -ms-transition: opacity 0.2s ease-in;
-    -o-transition: opacity 0.2s ease-in;
-    transition: opacity 0.2s ease-in; }
+    -webkit-transition: opacity 0.25s ease-in;
+    -moz-transition: opacity 0.25s ease-in;
+    -ms-transition: opacity 0.25s ease-in;
+    -o-transition: opacity 0.25s ease-in;
+    transition: opacity 0.25s ease-in; }
     #category li .info h2, #category li .info h3 {
       color: #fbfbfd;
       padding: 0;
       margin: 0; }
     #category li .info h2 {
       margin-top: 0%;
-      -webkit-transition: margin-top 0.3s ease-in;
-      -moz-transition: margin-top 0.3s ease-in;
-      -ms-transition: margin-top 0.3s ease-in;
-      -o-transition: margin-top 0.3s ease-in;
-      transition: margin-top 0.3s ease-in;
+      -webkit-transition: margin-top 0.25s ease-in;
+      -moz-transition: margin-top 0.25s ease-in;
+      -ms-transition: margin-top 0.25s ease-in;
+      -o-transition: margin-top 0.25s ease-in;
+      transition: margin-top 0.25s ease-in;
       font-size: 2em;
       text-shadow: 2px 2px 2px #424242; }
     #category li .info h3 {
@@ -916,36 +913,6 @@ header {
 
   #touch a {
     font-size: 1.5em; } }
-/* FREEBIES */
-.freebie-image {
-  float: left;
-  padding: 0 1em 0 0; }
-
-.freebie-title {
-  font-family: Code-Pro-Demo;
-  font-weight: 400;
-  color: #626262;
-  font-size: 2em; }
-
-.freebie-download {
-  font-family: 'Libre Baskerville','Baskerville', 'Chancery', serif;
-  font-size: 0.9em;
-  font-style: italic;
-  padding: 0;
-  margin: 0; }
-
-.size-big {
-  font-size: 1.2em; }
-
-.img-link {
-  border-bottom: 0px solid #d43b1d !important; }
-
-@media screen and (max-width: 42em) {
-  .freebie-image {
-    float: none !important; }
-
-  .freebie-title {
-    margin-top: 1em !important; } }
 /* ALSO LOADED */
 .animated {
   -webkit-animation-duration: 1s;
