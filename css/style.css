@@ -180,9 +180,6 @@ h1, h2, h3, h4, h5 {
   color: #626262;
   text-transform: uppercase; }
 
-h1 span, h2 span, h3 span, h4 span, h5 span {
-  color: #d43b1d; }
-
 h1 {
   font-size: 2em; }
 
@@ -213,26 +210,6 @@ nav li {
 .post h3 {
   margin-bottom: 1em;
   margin-top: 2em; }
-
-.button-ghost {
-  display: block;
-  font-family: 'Montserrat', sans-serif;
-  font-weight: bold;
-  padding: 0.5em;
-  margin-top: 1em;
-  text-transform: uppercase;
-  border: 1px white solid;
-  color: white;
-  text-decoration: none;
-  -webkit-transition: all 0.2s ease-in;
-  -moz-transition: all 0.2s ease-in;
-  -ms-transition: all 0.2s ease-in;
-  -o-transition: all 0.2s ease-in;
-  transition: all 0.2s ease-in; }
-
-.button-ghost:hover {
-  background-color: #fbfbfd;
-  color: #626262; }
 
 blockquote {
   position: relative;
@@ -898,12 +875,6 @@ header {
 
   .work-info .work-url a {
     width: 3em; }
-
-  .freebie-image {
-    float: none; }
-
-  .freebie-title {
-    margin-top: 1em; }
 
   #curtain {
     margin-bottom: 20em; }
