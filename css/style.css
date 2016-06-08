@@ -529,11 +529,11 @@ header {
       transition: all 0.25s ease-in; }
       header ul a:hover {
         border-bottom: 4px solid #fbfbfd; }
-    header ul #contact {
+    header ul .contact {
       background-color: #d43b1d;
       padding: 0.5em;
       border-bottom: 0px solid #fbfbfd; }
-      header ul #contact:hover {
+      header ul .contact:hover {
         border-bottom: 0px solid #fbfbfd;
         background-color: white;
         color: #d43b1d; }
