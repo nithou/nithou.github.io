@@ -541,6 +541,9 @@ header {
         background-color: #626262;
         color: white; }
 
+#particles-js header {
+  background-color: transparent; }
+
 #particles-js header #logo a,
 #particles-js header ul a {
   color: white; }
