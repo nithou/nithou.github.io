@@ -532,7 +532,7 @@ header {
       -webkit-transition: all 0.25s ease-in;
       transition: all 0.25s ease-in; }
       header ul a:hover {
-        border-bottom: 4px solid #626262; }
+        border-bottom: 2px solid #626262; }
     header ul a.contact {
       background-color: #d43b1d;
       padding: 0.5em;
@@ -558,7 +558,7 @@ header {
   color: #d43b1d; }
 
 .home ul a:hover {
-  border-bottom: 4px solid white; }
+  border-bottom: 2px solid white; }
 
 @media screen and (max-width: 60.5em) {
   header .mobile ul a, header #logo a {
