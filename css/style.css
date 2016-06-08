@@ -548,6 +548,10 @@ header {
 #particles-js header ul a {
   color: white; }
 
+#particles-js header ul a.contact:hover {
+  background-color: white;
+  color: #626262; }
+
 #particles-js header #logo a:hover {
   color: #d43b1d; }
 
