@@ -457,8 +457,8 @@ h1 {
   #footer a {
     color: #d43b1d;
     text-decoration: none;
-    -webkit-transition: all 0.2s ease-in;
-    transition: all 0.2s ease-in; }
+    -webkit-transition: all 0.25s ease-in;
+    transition: all 0.25s ease-in; }
     #footer a:hover {
       color: #626262; }
   #footer #touch {
@@ -467,6 +467,8 @@ h1 {
     #footer #touch a {
       font-size: 3em;
       padding: 0.5em; }
+      #footer #touch a:hover {
+        color: #626262; }
 
 #contact {
   background-color: #d43b1d;
@@ -501,10 +503,11 @@ header {
   header #logo {
     float: left; }
     header #logo a {
-      font-size: 1.6em; }
+      font-size: 1.6em;
+      border-bottom: 0px solid transparent; }
       header #logo a:hover {
         color: #d43b1d;
-        border-bottom: 4px solid transparent; }
+        border-bottom: 0px solid transparent; }
   header a {
     text-decoration: none;
     color: #fbfbfd;
@@ -528,18 +531,16 @@ header {
       -webkit-transition: all 0.25s ease-in;
       transition: all 0.25s ease-in; }
       header ul a:hover {
-        border-bottom: 4px solid #fbfbfd; }
+        border-bottom: 4px solid #626262; }
     header ul .contact {
       background-color: #d43b1d;
       padding: 0.5em;
+      color: white;
       border-bottom: 0px solid #fbfbfd; }
       header ul .contact:hover {
         border-bottom: 0px solid #fbfbfd;
         background-color: white;
         color: #d43b1d; }
-
-.work header #logo a:hover {
-  color: #d43b1d; }
 
 @media screen and (max-width: 60.5em) {
   header .mobile ul a, header #logo a {
