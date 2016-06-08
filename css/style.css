@@ -334,6 +334,7 @@ p {
 
 .button {
   font-family: 'Montserrat', sans-serif;
+  font-weight: lighter;
   font-weight: 400;
   font-size: 0.8em;
   color: #d43b1d;
