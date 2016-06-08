@@ -496,7 +496,6 @@ h1 {
 
 /* HEADER - Header and website navigation */
 header {
-  background-color: #626262;
   font-family: 'Montserrat', sans-serif;
   color: #fbfbfd;
   padding: 1em; }
@@ -510,7 +509,7 @@ header {
         border-bottom: 0px solid transparent; }
   header a {
     text-decoration: none;
-    color: #fbfbfd;
+    color: #626262;
     -webkit-transition: all 0.25s ease-in;
     transition: all 0.25s ease-in; }
   header ul {
@@ -532,15 +531,25 @@ header {
       transition: all 0.25s ease-in; }
       header ul a:hover {
         border-bottom: 4px solid #626262; }
-    header ul .contact {
+    header ul a.contact {
       background-color: #d43b1d;
       padding: 0.5em;
       color: white;
-      border-bottom: 0px solid #fbfbfd; }
-      header ul .contact:hover {
-        border-bottom: 0px solid #fbfbfd;
-        background-color: white;
-        color: #d43b1d; }
+      border-bottom: 0px solid transparent !important; }
+      header ul a.contact:hover {
+        border-bottom: 0px solid transparent !important;
+        background-color: #626262;
+        color: white; }
+
+#particles-js header #logo a,
+#particles-js header ul a {
+  color: white; }
+
+#particles-js header #logo a:hover {
+  color: #d43b1d; }
+
+.home ul a:hover {
+  border-bottom: 4px solid white; }
 
 @media screen and (max-width: 60.5em) {
   header .mobile ul a, header #logo a {
@@ -554,6 +563,12 @@ header {
     width: 15%;
     text-align: left;
     padding-top: 0.5em; }
+
+  .home ul a:hover {
+    border-bottom: 0px solid transparent; }
+
+  #particles-js header ul a:hover {
+    color: #d43b1d; }
 
   #top-menu.mobile {
     width: 85%;
@@ -711,13 +726,7 @@ header {
     display: block; }
 
   header li:last-child {
-    margin-bottom: 0; }
-
-  .js .nav-collapse {
-    position: relative; }
-
-  .js .nav-collapse.closed {
-    max-height: none; } }
+    margin-bottom: 0; } }
 @media screen and (max-width: 35em) {
   #category li {
     width: 100%; } }
