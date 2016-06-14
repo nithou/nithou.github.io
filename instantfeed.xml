@@ -5,11 +5,77 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-14T11:47:12+02:00</updated>
+    <updated>2016-06-14T13:21:07+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
     </author>
+    
+      <item>
+        <title>Réinventer le branding à l&#39;ère digitale</title>
+        <link>http://vandereecken.me/blog/2016/une_identite_digitale_first/</link>
+        <guid isPermaLink="true">http://vandereecken.me/blog/2016/une_identite_digitale_first/</guid>
+        <pubDate>Tue, 14 Jun 2016 00:00:00 +0200</pubDate>
+        <author></author>
+        
+          <description>Face à la révolution digitale, il est impératif pour les marques d&#39;adopter une identité flexible et adaptable à tous les supports</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="fr" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://vandereecken.me/blog/2016/une_identite_digitale_first/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Réinventer le branding à l&#39;ère digitale</h1>
+                      <figure>
+                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Réinventer le branding à l'ère digitale ">
+                          <figcaption>Réinventer le branding à l'ère digitale</figcaption>
+                      </figure>
+                      <time class="op-published" dateTime="2016-06-14 00:00:00 CEST">Tue, 14 Jun 2016 00:00:00 +0200</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  
+                    <p>Depuis des années, le travail de branding a toujours suivi une approche <strong>très orientée papier</strong>. La marque devait pouvoir être transposée et survivre à tout support : enveloppes, drapeaux, photocopies, fax (oui oui), … Et cette démarche obéissait à une logique implacable : pour atteindre un grand nombre, la marque devait être <strong>visible</strong> à travers le médium le plus utilisé : <strong>le papier</strong>.</p>
+
+<p>Ainsi on a vu l’essor de la <strong>communication papier</strong>, de la publicité classique à travers les affiches géantes, les magazines, la presse … Mais peu à peu les choses ont commencé à changer, d’abord doucement et puis à un <strong>rythme effréné</strong> sur les dernières années. Après avoir tenté d’<strong>appliquer cet ancien modèle sur le monde digital</strong> par des publicités invasives et tape-à-l’oeil, peu à peu les marques doivent se réinventer.</p>
+
+<p>Mais en réinventant le branding, il faut absolument s’attarder aussi sur la création des marques en tant que telles. Là où les règles imposées étaient que le logo puisse survivre à des traitements d’impression parfois assez barbares (le fax par exemple), <strong>de nouvelles règles sont apparues</strong>. Ainsi le logo doit maintenant pouvoir exister en tant qu’<strong>avatar</strong> Facebook ou Twitter, mais aussi de plus en plus en tant qu’<strong>icône d’application</strong>, d’icône sur une montre connectée, de <strong>favicon dans la tab d’un navigateur Internet</strong> … Là où la marque devait s’adapter à différents types de supports et d’impressions, elle doit maintenant s’adapter à une <strong>multitude de canaux de distribution digitaux</strong>. La marque doit ainsi être <strong>identifiable directement</strong> sous des formes extrêmement variées.</p>
+
+<p>Là où le logo devait aussi rester lisible dans une forme réduite (2cm de largeur environ), les logos doivent maintenant s’adapter et devenir eux aussi <a href="http://responsivelogos.co.uk/">responsives</a>, changeant de forme tout en gardant leur identité, <strong>soumis à l’appareil utilisé par l’utilisateur</strong>. La marque devient ainsi <strong>caméléon</strong>, s’adaptant à son public pour continuer à être visible, reconnue, à s’imprimer dans les esprits.</p>
+
+<p>Là où les règles classiques restent utiles, <strong>de nouvelles règles digitales doivent désormais arriver dans les guidelines</strong> édictées durant la construction d’une marque. Les codes couleur HTML doivent ainsi cotoyer les couleurs Pantone et respecter de nouvelles règles de <strong>contraste et d’accessibilité</strong>, l’espace de respiration autour d’un logo doit s’adapter au monde digital et abandonner une vision millimétrée, les polices sélectionnées doivent être <strong>lisibles sur l’écran</strong> (abandonnez au passage <a href="http://www.64notes.com/design/stop-helvetica-arial/">Helvetica, une horreur sur l’écran</a>), …</p>
+
+<p>De même, l’identité doit <strong>s’étoffer de nouvelles instructions</strong> : comment afficher un lien ? un bouton ? une légende ? comment se déclinent les titres sur un site Internet (et comment se déclinent-il quand l’utilisateur utilise un smartphone) ? … Les logos doivent se simplifier, pour <strong>diminuer leur charge cognitive</strong>, pour être identifiables de façon instantanée pour l’utilisateur.</p>
+
+<p>Les règles sont multiples, changent et évoluent, il faut réussir à prévoir tout en <a href="http://vandereecken.me/blog/2016/prevoir_l_imprevisible/">laissant une marge de manoeuvre</a> aux équipes sur le terrain qui pourront s’adapter aux challenges émergeant. Là où les guidelines d’une marque traitaient de sa consistance, elles doivent maintenant <strong>prévoir sa flexibilité</strong>.</p>
+
+<p><strong>L’identité digitale doit ainsi passer au premier plan</strong>, car c’est là que se trouvent désormais les utilisateurs. Ainsi, au-delà d’une marque, le branding devient peu à peu la création de <strong>systèmes</strong> flexibles et pouvant s’adapter à tout environnement.</p>
+
+<h4 id="lire-aussi-">Lire aussi :</h4>
+
+<ul>
+  <li><a href="http://www.creativebloq.com/branding/why-designers-should-be-taking-digital-first-approach-branding-51620263?ref=webdesignernews.com">Why designers should be taking a digital-first approach to branding</a></li>
+  <li><a href="https://www.smashingmagazine.com/2016/04/logo-design-responsive-websites/">Logo Design For Responsive Websites</a></li>
+</ul>
+
+                  
+                    <footer>
+                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
+                        <small>Tous droits réservés - Simon Vandereecken</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Prévoir l&#39;imprévisible</title>
@@ -596,76 +662,6 @@ C’est à cette étape que l’on va doter votre squelette et votre peau d’un
 <p>J’ai déjà vu beaucoup de sites se rabattre alors sur des modules de traduction automatisés. Or, si la volonté de toucher le plus de gens possible est louable, cette méthode reste la pire que vous pourriez employer. Quand 58% de vos visiteurs quittent un site mal réalisé, je vous laisse imaginer combien de ces même visiteurs vous abandonnent si vous : <em>site parler comme ça de ton langue maternel toi acheter cela</em>.</p>
 
 <p>Un site demande de l’attention, et la façon dont vous vous adressez à votre client montre le respect que vous lui portez. N’oubliez pas non plus que chaque langue que vous ajoutez à votre site est une <strong>langue dans laquelle vous devez pouvoir répondre</strong> à votre client, et dès lors, maitriser suffisamment. Alors avant de vous embarquer dans l’aventure d’un site multilingue, armez vous en conséquence ;)</p>
-
-                  
-                    <footer>
-                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
-                        <small>Tous droits réservés - Simon Vandereecken</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>De quoi ai-je besoin pour construire mon site?</title>
-        <link>http://vandereecken.me/blog/2014/de-quoi-ai-je-besoin-pour-construire-mon-site/</link>
-        <guid isPermaLink="true">http://vandereecken.me/blog/2014/de-quoi-ai-je-besoin-pour-construire-mon-site/</guid>
-        <pubDate>Sun, 02 Mar 2014 00:00:00 +0100</pubDate>
-        <author></author>
-        
-          <description>&lt;p&gt;Vous vous êtes enfin décidés à construire votre site mais vous vous demandez exactement ce que vous devez réunir ? Je vais vous donner quelques pistes.&lt;/p&gt;
-
-&lt;p&gt;Comme je l’ai dit précédemment, votre site ne vous appartient pas, dès lors, votre première mission est de regarder autour de vous, de vous interroger, d’aller vers vos clients, de regarder ce que font vos concurrents, … Le but est simple : &lt;strong&gt;identifier les besoins &amp;amp; désirs&lt;/strong&gt; de vos clients. Car ce sont ces besoins et ces désirs qui formeront les points centraux de votre site.&lt;/p&gt;
-
-&lt;p&gt;Ensuite, identifiez vos &lt;strong&gt;forces et vos faiblesses&lt;/strong&gt;, quels sont les éléments qui font de votre entreprise ce qu’elle est, qui la distingue, … Comment pouvez-vous utiliser ces forces pour appuyer votre message ? L’un de mes clients pratiquait ainsi son métier depuis 38 ans, en insistant sur cet argument nous avons pu &lt;strong&gt;augmenter son nombre de visiteurs de 13%&lt;/strong&gt;. Pensez à tout, réfléchissez et creusez.&lt;/p&gt;
-
-&lt;p&gt;Réfléchissez ensuite à ce que vous voulez dire, n’hésitez pas à noter ce qui vous vient à l’esprit, à jeter quelques lignes sur le papier. Même si vous décidez d’engager un &lt;strong&gt;copywriter&lt;/strong&gt; qui se chargera de &lt;strong&gt;l’écriture de vos textes&lt;/strong&gt; (vous pouvez par exemple contacter &lt;a href=&quot;http://www.ex-abrupto.be/&quot;&gt;Ex Abrupto&lt;/a&gt; ou &lt;a href=&quot;http://www.dekapecopywriting.be/&quot;&gt;Dékapé Copywriting&lt;/a&gt;), ces quelques lignes vous permettront d’y voir plus clair et aideront dans le travail de rédaction. Vous parlez plusieurs langues ? N’hésitez pas à le mentionner !&lt;/p&gt;
-
-&lt;p&gt;Votre entreprise possède un logo et une identité ? Très bien, réunissez ces éléments, demandez à votre graphiste de vous fournir &lt;strong&gt;votre logo au format vectoriel&lt;/strong&gt; (eps, ai, pdf, … un fichier Word, un jpg ou un png ne sont pas des formats vectoriels) et gardez les précieusement, vous en aurez besoin. Vous n’en avez pas ? Contactez un designer, les points mentionnés dans le deuxième paragraphe vous aideront à construire une identité forte. Si vous avez déjà un webdesigner, &lt;strong&gt;parlez en avec lui&lt;/strong&gt;, car beaucoup de webdesigners prennent en charge la création d’identités en plus de sites internet, vous êtes ainsi assurés d’avoir tous les fichiers à votre disposition (et limitez aussi la perte de temps en aller-retour).&lt;/p&gt;
-
-&lt;p&gt;Isolez ensuite vos besoins : &lt;strong&gt;Qu’attendez vous de votre site ?&lt;/strong&gt; Une simple visibilité sur Internet, un endroit de contact, ou bien quelque chose de plus évolué ? Prêtez simplement attention qu’au plus vous voudrez de fonctionnalités, au plus le coût sera grand. Un bon webdesigner sera ainsi à même de vous épauler et de regarder avec vous ces besoins afin de déterminer leur nécessité.&lt;/p&gt;
-
-&lt;p&gt;Ne pressez pas les choses et n’oubliez pas, avant de vous fixer une date butoir, qu’un site demande beaucoup de travail. Serez-vous prêts à fournir tous les éléments (textes, images, …) à temps pour la construction de votre site ? Il est en général possible de construire un site très rapidement, mais cela &lt;strong&gt;demande une très grosse implication&lt;/strong&gt; tant du webdesigner que du client, ne négligez pas ce point.&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="fr" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://vandereecken.me/blog/2014/de-quoi-ai-je-besoin-pour-construire-mon-site/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>De quoi ai-je besoin pour construire mon site?</h1>
-                      <figure>
-                          <img src="http://vandereecken.me/img/instant.jpg" alt=" De quoi ai-je besoin pour construire mon site? ">
-                          <figcaption>De quoi ai-je besoin pour construire mon site?</figcaption>
-                      </figure>
-                      <time class="op-published" dateTime="2014-03-02 00:00:00 CET">Sun, 02 Mar 2014 00:00:00 +0100</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-                  
-                    <p>Vous vous êtes enfin décidés à construire votre site mais vous vous demandez exactement ce que vous devez réunir ? Je vais vous donner quelques pistes.</p>
-
-<p>Comme je l’ai dit précédemment, votre site ne vous appartient pas, dès lors, votre première mission est de regarder autour de vous, de vous interroger, d’aller vers vos clients, de regarder ce que font vos concurrents, … Le but est simple : <strong>identifier les besoins &amp; désirs</strong> de vos clients. Car ce sont ces besoins et ces désirs qui formeront les points centraux de votre site.</p>
-
-<p>Ensuite, identifiez vos <strong>forces et vos faiblesses</strong>, quels sont les éléments qui font de votre entreprise ce qu’elle est, qui la distingue, … Comment pouvez-vous utiliser ces forces pour appuyer votre message ? L’un de mes clients pratiquait ainsi son métier depuis 38 ans, en insistant sur cet argument nous avons pu <strong>augmenter son nombre de visiteurs de 13%</strong>. Pensez à tout, réfléchissez et creusez.</p>
-
-<p>Réfléchissez ensuite à ce que vous voulez dire, n’hésitez pas à noter ce qui vous vient à l’esprit, à jeter quelques lignes sur le papier. Même si vous décidez d’engager un <strong>copywriter</strong> qui se chargera de <strong>l’écriture de vos textes</strong> (vous pouvez par exemple contacter <a href="http://www.ex-abrupto.be/">Ex Abrupto</a> ou <a href="http://www.dekapecopywriting.be/">Dékapé Copywriting</a>), ces quelques lignes vous permettront d’y voir plus clair et aideront dans le travail de rédaction. Vous parlez plusieurs langues ? N’hésitez pas à le mentionner !</p>
-
-<p>Votre entreprise possède un logo et une identité ? Très bien, réunissez ces éléments, demandez à votre graphiste de vous fournir <strong>votre logo au format vectoriel</strong> (eps, ai, pdf, … un fichier Word, un jpg ou un png ne sont pas des formats vectoriels) et gardez les précieusement, vous en aurez besoin. Vous n’en avez pas ? Contactez un designer, les points mentionnés dans le deuxième paragraphe vous aideront à construire une identité forte. Si vous avez déjà un webdesigner, <strong>parlez en avec lui</strong>, car beaucoup de webdesigners prennent en charge la création d’identités en plus de sites internet, vous êtes ainsi assurés d’avoir tous les fichiers à votre disposition (et limitez aussi la perte de temps en aller-retour).</p>
-
-<p>Isolez ensuite vos besoins : <strong>Qu’attendez vous de votre site ?</strong> Une simple visibilité sur Internet, un endroit de contact, ou bien quelque chose de plus évolué ? Prêtez simplement attention qu’au plus vous voudrez de fonctionnalités, au plus le coût sera grand. Un bon webdesigner sera ainsi à même de vous épauler et de regarder avec vous ces besoins afin de déterminer leur nécessité.</p>
-
-<p>Ne pressez pas les choses et n’oubliez pas, avant de vous fixer une date butoir, qu’un site demande beaucoup de travail. Serez-vous prêts à fournir tous les éléments (textes, images, …) à temps pour la construction de votre site ? Il est en général possible de construire un site très rapidement, mais cela <strong>demande une très grosse implication</strong> tant du webdesigner que du client, ne négligez pas ce point.</p>
 
                   
                     <footer>
