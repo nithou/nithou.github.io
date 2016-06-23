@@ -5,14 +5,14 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-23T15:39:33+02:00</updated>
+    <updated>2016-06-23T15:49:11+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
     </author>
     
       <item>
-        <title>Une entreprise honesty-first ?</title>
+        <title>Vers une entreprise honesty-first ?</title>
         <link>http://vandereecken.me/blog/2016/honesty_first/</link>
         <guid isPermaLink="true">http://vandereecken.me/blog/2016/honesty_first/</guid>
         <pubDate>Thu, 23 Jun 2016 00:00:00 +0200</pubDate>
@@ -32,10 +32,10 @@
               <body>
                 <article>
                   <header>
-                      <h1>Une entreprise honesty-first ?</h1>
+                      <h1>Vers une entreprise honesty-first ?</h1>
                       <figure>
-                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Une entreprise honesty-first ? ">
-                          <figcaption>Une entreprise honesty-first ?</figcaption>
+                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Vers une entreprise honesty-first ? ">
+                          <figcaption>Vers une entreprise honesty-first ?</figcaption>
                       </figure>
                       <time class="op-published" dateTime="2016-06-23 00:00:00 CEST">Thu, 23 Jun 2016 00:00:00 +0200</time>
                       <time class="op-modified" dateTime=""></time>
