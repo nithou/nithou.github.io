@@ -5,11 +5,66 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-06-28T15:04:06+02:00</updated>
+    <updated>2016-07-01T14:12:50+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
     </author>
+    
+      <item>
+        <title>Pour un contenu digital qualitatif</title>
+        <link>http://vandereecken.me/blog/2016/tout_n_est_pas_social/</link>
+        <guid isPermaLink="true">http://vandereecken.me/blog/2016/tout_n_est_pas_social/</guid>
+        <pubDate>Fri, 01 Jul 2016 00:00:00 +0200</pubDate>
+        <author></author>
+        
+          <description>Alors que Facebook revoit une nouvelle fois son newsfeed, il est plus que temps de se détacher des métriques basées sur le like et consorts.</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="fr" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://vandereecken.me/blog/2016/tout_n_est_pas_social/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Pour un contenu digital qualitatif</h1>
+                      <figure>
+                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Pour un contenu digital qualitatif ">
+                          <figcaption>Pour un contenu digital qualitatif</figcaption>
+                      </figure>
+                      <time class="op-published" dateTime="2016-07-01 00:00:00 CEST">Fri, 01 Jul 2016 00:00:00 +0200</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  
+                    <p>Facebook a annoncé mercredi qu’il <a href="http://mashable.com/2016/06/29/facebook-news-feed-change.amp">procédait à de nouveaux changements dans l’affichage de son News Feed</a>, déclenchant une volée d’articles à l’attention des marques sur la perte de leur sacro-saint reach &amp; consorts. Des années après l’introduction des médias sociaux, il est triste de constater qu’encore une fois <strong>on n’estime pas le contenu</strong> pour ce qu’il apporte, mais bien sur base de métriques telles que le nombre de “likes”, de “fans”, …</p>
+
+<p>Bien sûr les torts sont partagés, pendant tout un temps on procédait ainsi à une course au like, au retweet, concours 2.0. de celui “qui a la plus grosse”. Mais peu à peu les mentalités ont évolué et on a commencé tout doucement à <strong>se détacher de ces métriques</strong> qui, il faut le reconnaître n’exprimaient rien, pour se recentrer vers des métriques tels que <strong>l’engagement</strong>, qui portaient un vrai sens.</p>
+
+<p>Malheureusement, ce changement n’a pas été propagé partout et beaucoup de managers se basent encore sur le nombre de likes pour juger de l’impact des réseaux sociaux dans leur communication digitale (réseaux sociaux que ces mêmes managers ont relégués <strong>pendant de longues années au rang secondaire</strong> mais soit.).</p>
+
+<p>Le problème reste donc entier : quand on base les objectifs d’une équipe de communication sur ces métriques passéistes, on <strong>plombe le travail effectué par ces équipes par une nouvelle “course au like”</strong>. D’où la multiplication de <strong>contenu pauvre</strong>, d’articles aux titres accrocheurs, mais au contenu proche d’une brève de journal, de posts répétant en boucle infinie les propos tenus dans le premier paragraphe, …</p>
+
+<p>Tout cela amène à ce magnifique état des lieux : <strong><a href="https://iconisagency.com/notes/80-social-media-content-garbage/">80% du contenu partagé sur les réseaux sociaux est de la merde</a></strong>. Purement et simplement. 80% du contenu produit de force à la chasse aux métriques <strong>ne vaut absolument rien</strong>. Alors Facebook, comme Google a l’époque, décidé d’adapter ses algorithmes, non pas pour pénaliser les entreprises, ou “diminuer leur reach”, mais dans une ultime tentative de leur faire prendre conscience qu’il <strong>devient urgent de produire du contenu qualitatif et non quantitatif</strong>.</p>
+
+<p>Si à l’époque Google a sévi contre les sites multipliant les mots clés dans le but de tricher sur leur positionnement, ce qui a mené à la création de sites au contenu enrichi et ayant de l’intérêt, il en est de même actuellement pour Facebook. Alors, avant de sortir piques et fourches pour hurler sur le géant bleu, <strong>questionnez d’abord votre stratégie de communication digitale</strong> et les métriques utilisées et orientez votre contenu, vos sites vers <strong>une information de qualité</strong> et du <strong>contenu intéressant</strong>, l’engagement viendra alors de lui même, et de façon beaucoup plus tangible qu’à travers des likes et autres retweets.</p>
+
+                  
+                    <footer>
+                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
+                        <small>Tous droits réservés - Simon Vandereecken</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Vers une entreprise honesty-first ?</title>
@@ -606,72 +661,6 @@ C’est à cette étape que l’on va doter votre squelette et votre peau d’un
 <p>Ces étapes, bien sûr, ne sont pas fixées dans la pierre, certains webdesigners fonctionnant un peu différemment (j’ai évoqué les Style Tiles plus haut, ainsi que les maquettes Photoshop), Internet étant un secteur <strong>évoluant constamment</strong> à une <strong>vitesse extrêmement rapide</strong>.</p>
 
 <p>Globalement ces étapes décrivent les <strong>éléments nécessaires pour la création de votre site</strong>, ainsi qu’un processus de réflexion relativement logique qui doit être appliqué à la création de ce dernier.</p>
-
-                  
-                    <footer>
-                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
-                        <small>Tous droits réservés - Simon Vandereecken</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>Apprendre chaque jour</title>
-        <link>http://vandereecken.me/blog/2014/apprendre-chaque-jour/</link>
-        <guid isPermaLink="true">http://vandereecken.me/blog/2014/apprendre-chaque-jour/</guid>
-        <pubDate>Wed, 12 Mar 2014 00:00:00 +0100</pubDate>
-        <author></author>
-        
-          <description>&lt;p&gt;Quand je regarde ces dernières années, je me rends compte des pas de géant qui m’ont peu à peu amené où j’en suis aujourd’hui. Parti avec une certaine arrogance de la jeunesse, j’ai peu à peu appris à ouvrir les yeux, à découvrir le monde qui m’entoure, et à apprendre, chaque jour, un peu plus.&lt;/p&gt;
-
-&lt;p&gt;Chaque client que j’ai eu m’en a appris un peu plus. Et là où j’entends beaucoup “&lt;em&gt;c’est toi le graphiste, c’est toi qui doit décider&lt;/em&gt;”, j’ai pu constater à quel point mes clients pouvaient autant apporter que moi au côté graphique d’un projet.&lt;/p&gt;
-
-&lt;p&gt;Que ce soit par leurs remarques, par leurs interrogations, mais aussi par leur parcours. Chaque contrat était &lt;strong&gt;l’occasion d’en apprendre un peu plus sur un domaine&lt;/strong&gt; : la création d’une entreprise, la vie de freelance, la vente de meubles anciens (oui oui), la vitrerie et ses différents aspects, la vie d’un restaurant ou d’un bar, …&lt;/p&gt;
-
-&lt;p&gt;Là où, il y a quelques années, je ne pensais pas avoir besoin de m’intéresser vraiment à l’activité de mes clients, je trouve un certain plaisir à me &lt;strong&gt;plonger dans des nouveaux domaines&lt;/strong&gt;, à me renseigner, à apprendre, à m’émerveiller. Chaque nouveau client est un défi, un continent vierge à explorer, une aventure dans laquelle je m’embarque.&lt;/p&gt;
-
-&lt;p&gt;Et si bien sûr une relation graphiste-client n’est pas toujours de tout repos, et que parfois les avis divergent, j’ai pu peu à peu apprendre à concilier les points de vue, à &lt;strong&gt;construire quelque chose main dans la main&lt;/strong&gt; avec le client et, je l’espère, à rencontrer leurs attentes.&lt;/p&gt;
-
-&lt;p&gt;Il me reste encore &lt;strong&gt;énormément de chemin à parcourir&lt;/strong&gt;, et il y a énormément de choses que je rêve encore de découvrir et d’apprendre, mais je ne peux que constater que ces années écoulées, même si elles n’ont pas toutes été faciles, m’ont beaucoup apporté. Je ne sais pas de quoi sera fait demain ni quel chemin j’emprunterai, mais je me réjouis à l’idée de tout ce qu’il me reste encore à accomplir.&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="fr" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://vandereecken.me/blog/2014/apprendre-chaque-jour/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>Apprendre chaque jour</h1>
-                      <figure>
-                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Apprendre chaque jour ">
-                          <figcaption>Apprendre chaque jour</figcaption>
-                      </figure>
-                      <time class="op-published" dateTime="2014-03-12 00:00:00 CET">Wed, 12 Mar 2014 00:00:00 +0100</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-                  
-                    <p>Quand je regarde ces dernières années, je me rends compte des pas de géant qui m’ont peu à peu amené où j’en suis aujourd’hui. Parti avec une certaine arrogance de la jeunesse, j’ai peu à peu appris à ouvrir les yeux, à découvrir le monde qui m’entoure, et à apprendre, chaque jour, un peu plus.</p>
-
-<p>Chaque client que j’ai eu m’en a appris un peu plus. Et là où j’entends beaucoup “<em>c’est toi le graphiste, c’est toi qui doit décider</em>”, j’ai pu constater à quel point mes clients pouvaient autant apporter que moi au côté graphique d’un projet.</p>
-
-<p>Que ce soit par leurs remarques, par leurs interrogations, mais aussi par leur parcours. Chaque contrat était <strong>l’occasion d’en apprendre un peu plus sur un domaine</strong> : la création d’une entreprise, la vie de freelance, la vente de meubles anciens (oui oui), la vitrerie et ses différents aspects, la vie d’un restaurant ou d’un bar, …</p>
-
-<p>Là où, il y a quelques années, je ne pensais pas avoir besoin de m’intéresser vraiment à l’activité de mes clients, je trouve un certain plaisir à me <strong>plonger dans des nouveaux domaines</strong>, à me renseigner, à apprendre, à m’émerveiller. Chaque nouveau client est un défi, un continent vierge à explorer, une aventure dans laquelle je m’embarque.</p>
-
-<p>Et si bien sûr une relation graphiste-client n’est pas toujours de tout repos, et que parfois les avis divergent, j’ai pu peu à peu apprendre à concilier les points de vue, à <strong>construire quelque chose main dans la main</strong> avec le client et, je l’espère, à rencontrer leurs attentes.</p>
-
-<p>Il me reste encore <strong>énormément de chemin à parcourir</strong>, et il y a énormément de choses que je rêve encore de découvrir et d’apprendre, mais je ne peux que constater que ces années écoulées, même si elles n’ont pas toutes été faciles, m’ont beaucoup apporté. Je ne sais pas de quoi sera fait demain ni quel chemin j’emprunterai, mais je me réjouis à l’idée de tout ce qu’il me reste encore à accomplir.</p>
 
                   
                     <footer>
