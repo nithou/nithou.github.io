@@ -5,7 +5,7 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-08-21T12:31:50+02:00</updated>
+    <updated>2016-08-21T12:33:19+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
@@ -593,7 +593,7 @@
 &lt;h3 id=&quot;les-wireframes&quot;&gt;Les Wireframes&lt;/h3&gt;
 &lt;p&gt;Cette étape peut vous paraitre extrêmement &lt;strong&gt;abstraite&lt;/strong&gt;, et elle n’est pas facile, car elle va vous permettre de mieux organiser l’information sur votre site, mais aussi l’&lt;strong&gt;expérience utilisateur&lt;/strong&gt; et la façon dont vos visiteurs interagiront avec votre site.
 Visuellement un wireframe est généralement assez limité, composé de blocs en noir et blanc, le but premier étant &lt;strong&gt;d’agencer vos différents éléments&lt;/strong&gt; (logo, textes, boutons, champs, …) de façon à garder le visiteur sur votre site et à le &lt;strong&gt;pousser à effectuer une action&lt;/strong&gt; (que ce soit lire un article, passer un appel, faire une réservation, un achat, …).
-Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien &lt;strong&gt;comment il va fonctionner&lt;/strong&gt;, son squelette en quelque sorte.&lt;/p&gt;
+Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien &lt;strong&gt;comment il va fonctionner&lt;/strong&gt;, son squelette en quelque sorte…&lt;/p&gt;
 
 &lt;h3 id=&quot;la-maquette&quot;&gt;La Maquette&lt;/h3&gt;
 &lt;p&gt;L’étape de maquette est sujette à beaucoup de discussion pour le moment. Là où la méthode la plus classique était de travailler sous Photoshop et d’envoyer des fichiers images du site, de plus en plus de webdesigners tendent à réaliser des maquettes interactives (HTML, CSS).&lt;/p&gt;
@@ -641,7 +641,7 @@ C’est à cette étape que l’on va doter votre squelette et votre peau d’un
 <h3 id="les-wireframes">Les Wireframes</h3>
 <p>Cette étape peut vous paraitre extrêmement <strong>abstraite</strong>, et elle n’est pas facile, car elle va vous permettre de mieux organiser l’information sur votre site, mais aussi l’<strong>expérience utilisateur</strong> et la façon dont vos visiteurs interagiront avec votre site.
 Visuellement un wireframe est généralement assez limité, composé de blocs en noir et blanc, le but premier étant <strong>d’agencer vos différents éléments</strong> (logo, textes, boutons, champs, …) de façon à garder le visiteur sur votre site et à le <strong>pousser à effectuer une action</strong> (que ce soit lire un article, passer un appel, faire une réservation, un achat, …).
-Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien <strong>comment il va fonctionner</strong>, son squelette en quelque sorte.</p>
+Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien <strong>comment il va fonctionner</strong>, son squelette en quelque sorte…</p>
 
 <h3 id="la-maquette">La Maquette</h3>
 <p>L’étape de maquette est sujette à beaucoup de discussion pour le moment. Là où la méthode la plus classique était de travailler sous Photoshop et d’envoyer des fichiers images du site, de plus en plus de webdesigners tendent à réaliser des maquettes interactives (HTML, CSS).</p>
