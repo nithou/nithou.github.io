@@ -5,7 +5,7 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-08-23T13:25:40+02:00</updated>
+    <updated>2016-08-23T13:27:17+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
@@ -45,8 +45,9 @@
 
 <p>En effet, là où le minimalisme prône la <strong>mise en avant d’un contenu riche</strong>, essentiel à un <a href="http://vandereecken.me/blog/2014/design-ne-transforme-le-plomb-en/">site internet efficace</a> (déclinable à votre projet quel qu’il soit en fait), il est trop souvent interprété par certains comme une diminution drastique de ce contenu qui va à l’encontre même de l’essence du minimalisme.</p>
 
-<pre><code>"**Minimalisme** : Qui met en oeuvre le minimum d'éléments, qui bouleverse le minimum de choses."
-</code></pre>
+<blockquote>
+  <p><strong>Minimalisme</strong> : Qui met en oeuvre le minimum d’éléments, qui bouleverse le minimum de choses.</p>
+</blockquote>
 
 <p>Le minimalisme appliqué à votre projet consiste à s’interroger en effet sur chaque élément et son apport à ce projet et à la compréhension globale de celui-ci. De façon quasi absolue, le contenu (sauf s’il remplit 50 pages A4, et encore) sera le <strong>dernier mis au banc des accusés</strong> dans la recherche minimaliste. Malheureusement dans beaucoup de cas, c’est le contenu qui pâtit de telles décisions. Et l’on tente alors de rattraper son absence par une surdose d’effets, que ce soit d’un point de vue visuel ou autre.</p>
 
