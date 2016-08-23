@@ -5,11 +5,69 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-08-21T12:33:19+02:00</updated>
+    <updated>2016-08-23T13:25:40+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
     </author>
+    
+      <item>
+        <title>Le minimalisme n&#39;est pas une excuse</title>
+        <link>http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/</link>
+        <guid isPermaLink="true">http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/</guid>
+        <pubDate>Tue, 23 Aug 2016 00:00:00 +0200</pubDate>
+        <author></author>
+        
+          <description>Une pratique de plus en plus répandue est de contrer une absence de contenu par une volonté dite minimaliste. Malheureusement, minimaliste ne veut pas dire vide.</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="fr" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Le minimalisme n&#39;est pas une excuse</h1>
+                      <figure>
+                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Le minimalisme n'est pas une excuse ">
+                          <figcaption>Le minimalisme n'est pas une excuse</figcaption>
+                      </figure>
+                      <time class="op-published" dateTime="2016-08-23 00:00:00 CEST">Tue, 23 Aug 2016 00:00:00 +0200</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  
+                    <p>Ces dernières années, le monde digital s’est de plus en plus orienté vers une dynamique minimaliste, dynamique qui en soit est parfaitement fondée et apportant énormément : meilleure accessibilité, mise en avant du contenu plus que d’effets de manches, meilleurs performances, … En soit <strong>énormément de gains pour l’utilisateur final</strong>. Cependant, comme toute mouvance, le minimalisme vient avec son armée de personnes l’interprétant à leur sauce, et pour beaucoup à la mode <em>slacking</em>.</p>
+
+<p>En effet, là où le minimalisme prône la <strong>mise en avant d’un contenu riche</strong>, essentiel à un <a href="http://vandereecken.me/blog/2014/design-ne-transforme-le-plomb-en/">site internet efficace</a> (déclinable à votre projet quel qu’il soit en fait), il est trop souvent interprété par certains comme une diminution drastique de ce contenu qui va à l’encontre même de l’essence du minimalisme.</p>
+
+<pre><code>"**Minimalisme** : Qui met en oeuvre le minimum d'éléments, qui bouleverse le minimum de choses."
+</code></pre>
+
+<p>Le minimalisme appliqué à votre projet consiste à s’interroger en effet sur chaque élément et son apport à ce projet et à la compréhension globale de celui-ci. De façon quasi absolue, le contenu (sauf s’il remplit 50 pages A4, et encore) sera le <strong>dernier mis au banc des accusés</strong> dans la recherche minimaliste. Malheureusement dans beaucoup de cas, c’est le contenu qui pâtit de telles décisions. Et l’on tente alors de rattraper son absence par une surdose d’effets, que ce soit d’un point de vue visuel ou autre.</p>
+
+<p>Il est assez terrifiant de constater que dans la mise en place de projets et dans tous les coeurs de métiers, beaucoup peinent encore à expliquer leurs projets par un simple <a href="https://en.wikipedia.org/wiki/Elevator_pitch">Elevator pitch</a>. Beaucoup, une fois le nez dans le projet, ne se rendent pas compte que <strong>l’utilisateur final ne prendra pas autant de temps qu’eux</strong> pour comprendre et appréhender le projet, et que c’est par <strong>un contenu riche, direct et percutant</strong> qu’il faudra réussir à le convaincre.</p>
+
+<p>Dès lors il faut parfois pouvoir s’arrêter, même lorsque les délais sont très courts, pour apprendre à se <strong>recentrer sur son contenu</strong> et l’enrichir.  Dans la même volonté de créer un <a href="http://vandereecken.me/blog/2016/tout_n_est_pas_social/">contenu tout d’abord qualitatif</a>, il faut savoir jouer avec ce contenu en le rendant convaincant. Car au final, ce sera votre contenu qui convaincra l’utilisateur final d’effectuer un achat, une action, de s’engager avec vous. Aucun effet d’apparition en fondue ne viendra rattraper une promesse bancale.</p>
+
+<p>Une fois ce contenu créé, il sera temps alors de travailler sur sa présentation, sa mise en avant et les effets nécessaires à le rendre plus percutant… mais pas dans l’autre sens.</p>
+
+                  
+                    <footer>
+                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
+                        <small>Tous droits réservés - Simon Vandereecken</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Pour un contenu digital qualitatif</title>
@@ -567,100 +625,6 @@
 <p>C’est cette phase d’exploration, d’apprentissage et de découverte qui est à la <strong>base du design</strong>, de la création d’une identitée, de la construction d’un produit, pas le maniement des outils de la gamme Adobe, pas la capacité à réciter dans l’ordre anti-chronologique la liste des graphistes marquants du XXe siècle.</p>
 
 <p>Votre designer n’est pas un alchimiste capable de <strong>transformer le plomb en or</strong>. Mais donnez lui de l’or en main et il saura vous créer les plus magnifiques parures que vos clients s’arracheront.</p>
-
-                  
-                    <footer>
-                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
-                        <small>Tous droits réservés - Simon Vandereecken</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>Les étapes de construction d&#39;un site internet</title>
-        <link>http://vandereecken.me/blog/2014/les-etapes-de-construction-dun-site-internet/</link>
-        <guid isPermaLink="true">http://vandereecken.me/blog/2014/les-etapes-de-construction-dun-site-internet/</guid>
-        <pubDate>Sun, 16 Mar 2014 00:00:00 +0100</pubDate>
-        <author></author>
-        
-          <description>&lt;p&gt;Vous avez décidé de construire votre site et vous avez réuni tout le matériel nécessaire ? Vous êtes déjà sur la bonne voie ! Mais un site ne se construit pas du jour au lendemain et, comme une pièce montée, il requiert un suivi des étapes afin de pouvoir &lt;strong&gt;atteindre son objectif&lt;/strong&gt; (que ce soit être lu, pousser à l’achat, attirer des gens dans votre commerce, …).&lt;/p&gt;
-
-&lt;h3 id=&quot;les-wireframes&quot;&gt;Les Wireframes&lt;/h3&gt;
-&lt;p&gt;Cette étape peut vous paraitre extrêmement &lt;strong&gt;abstraite&lt;/strong&gt;, et elle n’est pas facile, car elle va vous permettre de mieux organiser l’information sur votre site, mais aussi l’&lt;strong&gt;expérience utilisateur&lt;/strong&gt; et la façon dont vos visiteurs interagiront avec votre site.
-Visuellement un wireframe est généralement assez limité, composé de blocs en noir et blanc, le but premier étant &lt;strong&gt;d’agencer vos différents éléments&lt;/strong&gt; (logo, textes, boutons, champs, …) de façon à garder le visiteur sur votre site et à le &lt;strong&gt;pousser à effectuer une action&lt;/strong&gt; (que ce soit lire un article, passer un appel, faire une réservation, un achat, …).
-Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien &lt;strong&gt;comment il va fonctionner&lt;/strong&gt;, son squelette en quelque sorte…&lt;/p&gt;
-
-&lt;h3 id=&quot;la-maquette&quot;&gt;La Maquette&lt;/h3&gt;
-&lt;p&gt;L’étape de maquette est sujette à beaucoup de discussion pour le moment. Là où la méthode la plus classique était de travailler sous Photoshop et d’envoyer des fichiers images du site, de plus en plus de webdesigners tendent à réaliser des maquettes interactives (HTML, CSS).&lt;/p&gt;
-
-&lt;p&gt;Cette étape permet de définir &lt;strong&gt;l’aspect visuel&lt;/strong&gt; de votre site, sa “peau” si vous voulez. C’est à cette étape que seront discutées les nuances de bleues, la police utilisée, … Lors de la réalisation de cette étape vous &lt;strong&gt;devriez déjà avoir fournis tous vos textes&lt;/strong&gt; (ou du moins une version quasi finale), car un webdesign ne fait pas sens si il n’est pas basé sur un contenu précis.
-Au cas où vous n’auriez pas fourni ce contenu, le designer pourra intégrer un texte de remplacement, aussi appelé &lt;em&gt;Lorem Ipsum&lt;/em&gt; (un obscur texte en latin dont le seul but est de montrer le &lt;strong&gt;comportement général du texte&lt;/strong&gt; dans votre site).
-P.S. D’autres vont même encore plus loin en proposant la création de &lt;a href=&quot;http://styletil.es/&quot;&gt;Style Tiles&lt;/a&gt;, sorte de guide “génériques” d’éléments d’un site, la maquette a taille fixe perdant un peu de son sens dans la mer d’appareils qui nous permet d’accéder aujourd’hui à un site internet (iPhone, iPad, …).&lt;/p&gt;
-
-&lt;h3 id=&quot;le-dveloppement&quot;&gt;Le Développement&lt;/h3&gt;
-&lt;p&gt;L’étape où l’on fait intervenir une merveilleuse machine qui transforme le café en code, j’ai nommé : &lt;strong&gt;le développeur&lt;/strong&gt;. A cette étape, vous êtes d’accord avec l’aspect final de votre site, la façon dont l’utilisateur interagit etc.
-C’est à cette étape que l’on va doter votre squelette et votre peau d’une &lt;strong&gt;couche de muscles&lt;/strong&gt;, afin de permettre à votre site d’être ce qu’on appelle &lt;strong&gt;dynamique&lt;/strong&gt;. C’est à cette étape que l’on va développer la façon dont vous pourrez faire des modifications à votre site, effectuer une réservation, vous inscrire, …&lt;/p&gt;
-
-&lt;h3 id=&quot;cest-parti-&quot;&gt;C’est parti !&lt;/h3&gt;
-&lt;p&gt;Un site, pour être accessible a besoin de deux choses : un &lt;strong&gt;hébergement&lt;/strong&gt; (le “terrain” sur lequel vous posez votre construction) et un &lt;strong&gt;nom de domaine&lt;/strong&gt; (“l’adresse” de votre habitation). Ces deux points sont fournis par un &lt;strong&gt;hébergeur&lt;/strong&gt; que vous payez mensuellement (ou annuellement dans pas mal de cas). Une fois cette dernière étape réalisée, votre site sera enfin lancé et accessible à tous !&lt;/p&gt;
-
-&lt;h3 id=&quot;tout-change&quot;&gt;Tout change&lt;/h3&gt;
-&lt;p&gt;Ces étapes, bien sûr, ne sont pas fixées dans la pierre, certains webdesigners fonctionnant un peu différemment (j’ai évoqué les Style Tiles plus haut, ainsi que les maquettes Photoshop), Internet étant un secteur &lt;strong&gt;évoluant constamment&lt;/strong&gt; à une &lt;strong&gt;vitesse extrêmement rapide&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Globalement ces étapes décrivent les &lt;strong&gt;éléments nécessaires pour la création de votre site&lt;/strong&gt;, ainsi qu’un processus de réflexion relativement logique qui doit être appliqué à la création de ce dernier.&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="fr" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://vandereecken.me/blog/2014/les-etapes-de-construction-dun-site-internet/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>Les étapes de construction d&#39;un site internet</h1>
-                      <figure>
-                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Les étapes de construction d'un site internet ">
-                          <figcaption>Les étapes de construction d'un site internet</figcaption>
-                      </figure>
-                      <time class="op-published" dateTime="2014-03-16 00:00:00 CET">Sun, 16 Mar 2014 00:00:00 +0100</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-                  
-                    <p>Vous avez décidé de construire votre site et vous avez réuni tout le matériel nécessaire ? Vous êtes déjà sur la bonne voie ! Mais un site ne se construit pas du jour au lendemain et, comme une pièce montée, il requiert un suivi des étapes afin de pouvoir <strong>atteindre son objectif</strong> (que ce soit être lu, pousser à l’achat, attirer des gens dans votre commerce, …).</p>
-
-<h3 id="les-wireframes">Les Wireframes</h3>
-<p>Cette étape peut vous paraitre extrêmement <strong>abstraite</strong>, et elle n’est pas facile, car elle va vous permettre de mieux organiser l’information sur votre site, mais aussi l’<strong>expérience utilisateur</strong> et la façon dont vos visiteurs interagiront avec votre site.
-Visuellement un wireframe est généralement assez limité, composé de blocs en noir et blanc, le but premier étant <strong>d’agencer vos différents éléments</strong> (logo, textes, boutons, champs, …) de façon à garder le visiteur sur votre site et à le <strong>pousser à effectuer une action</strong> (que ce soit lire un article, passer un appel, faire une réservation, un achat, …).
-Gardez donc en tête que le but n’est donc pas de savoir à quoi votre site va ressembler mais bien <strong>comment il va fonctionner</strong>, son squelette en quelque sorte…</p>
-
-<h3 id="la-maquette">La Maquette</h3>
-<p>L’étape de maquette est sujette à beaucoup de discussion pour le moment. Là où la méthode la plus classique était de travailler sous Photoshop et d’envoyer des fichiers images du site, de plus en plus de webdesigners tendent à réaliser des maquettes interactives (HTML, CSS).</p>
-
-<p>Cette étape permet de définir <strong>l’aspect visuel</strong> de votre site, sa “peau” si vous voulez. C’est à cette étape que seront discutées les nuances de bleues, la police utilisée, … Lors de la réalisation de cette étape vous <strong>devriez déjà avoir fournis tous vos textes</strong> (ou du moins une version quasi finale), car un webdesign ne fait pas sens si il n’est pas basé sur un contenu précis.
-Au cas où vous n’auriez pas fourni ce contenu, le designer pourra intégrer un texte de remplacement, aussi appelé <em>Lorem Ipsum</em> (un obscur texte en latin dont le seul but est de montrer le <strong>comportement général du texte</strong> dans votre site).
-P.S. D’autres vont même encore plus loin en proposant la création de <a href="http://styletil.es/">Style Tiles</a>, sorte de guide “génériques” d’éléments d’un site, la maquette a taille fixe perdant un peu de son sens dans la mer d’appareils qui nous permet d’accéder aujourd’hui à un site internet (iPhone, iPad, …).</p>
-
-<h3 id="le-dveloppement">Le Développement</h3>
-<p>L’étape où l’on fait intervenir une merveilleuse machine qui transforme le café en code, j’ai nommé : <strong>le développeur</strong>. A cette étape, vous êtes d’accord avec l’aspect final de votre site, la façon dont l’utilisateur interagit etc.
-C’est à cette étape que l’on va doter votre squelette et votre peau d’une <strong>couche de muscles</strong>, afin de permettre à votre site d’être ce qu’on appelle <strong>dynamique</strong>. C’est à cette étape que l’on va développer la façon dont vous pourrez faire des modifications à votre site, effectuer une réservation, vous inscrire, …</p>
-
-<h3 id="cest-parti-">C’est parti !</h3>
-<p>Un site, pour être accessible a besoin de deux choses : un <strong>hébergement</strong> (le “terrain” sur lequel vous posez votre construction) et un <strong>nom de domaine</strong> (“l’adresse” de votre habitation). Ces deux points sont fournis par un <strong>hébergeur</strong> que vous payez mensuellement (ou annuellement dans pas mal de cas). Une fois cette dernière étape réalisée, votre site sera enfin lancé et accessible à tous !</p>
-
-<h3 id="tout-change">Tout change</h3>
-<p>Ces étapes, bien sûr, ne sont pas fixées dans la pierre, certains webdesigners fonctionnant un peu différemment (j’ai évoqué les Style Tiles plus haut, ainsi que les maquettes Photoshop), Internet étant un secteur <strong>évoluant constamment</strong> à une <strong>vitesse extrêmement rapide</strong>.</p>
-
-<p>Globalement ces étapes décrivent les <strong>éléments nécessaires pour la création de votre site</strong>, ainsi qu’un processus de réflexion relativement logique qui doit être appliqué à la création de ce dernier.</p>
 
                   
                     <footer>
