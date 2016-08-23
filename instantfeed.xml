@@ -5,7 +5,7 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-08-23T13:27:17+02:00</updated>
+    <updated>2016-08-23T13:29:23+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
@@ -13,8 +13,8 @@
     
       <item>
         <title>Le minimalisme n&#39;est pas une excuse</title>
-        <link>http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/</link>
-        <guid isPermaLink="true">http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/</guid>
+        <link>http://vandereecken.me/blog/2016/minimalisme_n_est_pas_une_excuse/</link>
+        <guid isPermaLink="true">http://vandereecken.me/blog/2016/minimalisme_n_est_pas_une_excuse/</guid>
         <pubDate>Tue, 23 Aug 2016 00:00:00 +0200</pubDate>
         <author></author>
         
@@ -26,7 +26,7 @@
                 <html lang="fr" prefix="op: http://media.facebook.com/op#">
               <head>
                 <meta charset="utf-8">
-                <link rel="canonical" href="http://vandereecken.me/blog/2016/minimaliste_n_est_pas_une_excuse/">
+                <link rel="canonical" href="http://vandereecken.me/blog/2016/minimalisme_n_est_pas_une_excuse/">
                 <meta property="op:markup_version" content="v1.0">
               </head>
               <body>
