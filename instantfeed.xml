@@ -5,11 +5,64 @@
     <description>Portfolio de Simon Vandereecken, couteau suisse belge en design digital</description>
     <link>http://vandereecken.me/</link>
     <atom:link href="http://vandereecken.me/instantfeed.xml" rel="self" type="application/rss+xml" />
-    <updated>2016-08-24T22:05:59+02:00</updated>
+    <updated>2016-08-25T23:59:57+02:00</updated>
     <id>http://vandereecken.me</id>
     <author>
       <name></name>
     </author>
+    
+      <item>
+        <title>Évitez l&#39;éparpillement digital</title>
+        <link>http://vandereecken.me/blog/2016/egarements_digitaux/</link>
+        <guid isPermaLink="true">http://vandereecken.me/blog/2016/egarements_digitaux/</guid>
+        <pubDate>Thu, 01 Sep 2016 00:00:00 +0200</pubDate>
+        <author></author>
+        
+          <description>Si votre nombre de followers ou de likes sur Facebook comptent plus que le nombre de lecteurs sur votre site, il y a un sérieux problème</description>
+        
+        <content:encoded>
+            <![CDATA[
+                <!doctype html>
+                <html lang="fr" prefix="op: http://media.facebook.com/op#">
+              <head>
+                <meta charset="utf-8">
+                <link rel="canonical" href="http://vandereecken.me/blog/2016/egarements_digitaux/">
+                <meta property="op:markup_version" content="v1.0">
+              </head>
+              <body>
+                <article>
+                  <header>
+                      <h1>Évitez l&#39;éparpillement digital</h1>
+                      <figure>
+                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Évitez l'éparpillement digital ">
+                          <figcaption>Évitez l'éparpillement digital</figcaption>
+                      </figure>
+                      <time class="op-published" dateTime="2016-09-01 00:00:00 CEST">Thu, 01 Sep 2016 00:00:00 +0200</time>
+                      <time class="op-modified" dateTime=""></time>
+                  </header>
+                  
+                    <p><em>“Aimez nous sur Facebook”</em>, <em>Suivez nous sur Twitter</em>, <em>Inscrivez-vous à notre newsletter</em>, … A l’heure où un nombre grandissant d’utilisateurs utilisent des bloqueurs de publicités (déjà plus de <a href="https://pagefair.com/blog/2015/ad-blocking-report/">5% au niveau mondial</a>), il est étonnant de voir des sites appliquer le même genre de pratiques quand à leurs activités parallèles. Là où la publicité envahit nos écrans de façon intempestive, il devient malheureusement assez régulier de voir le contenu que l’on tente vainement de lire être repoussé par un gigantesque appel à souscrire à la newsletter du site (ce <a href="http://letmereadyourarticle.tumblr.com/">Tumblr</a> recense ainsi plusieurs sites mettant en oeuvre ces pratiques).</p>
+
+<p>Ces pratiques de plus en plus répandues font énormément de dégâts quant à l’expérience utilisateur générale du site. Au premier plan se trouve bien sûr le <strong>parcours de l’utilisateur</strong>, qui se retrouve bloqué dans sa tentative de consulter le contenu que vous avez mis autant de temps à créer. Souvent, un tel comportement forcera l’utilisateur à <strong>quitter votre site extrêmement rapidement</strong>, sans un regard en arrière. Sur <strong>mobile</strong>, l’expérience tourne au cauchemar à l’état pur, le scroll étant bloqué dans la moitié des cas dans une boucle infinie où le contenu ne cesse de se déplacer.</p>
+
+<p>Mais l’impact principal affecte votre <strong>message</strong>, le <strong>but de votre site</strong>, ce que vous voulez <strong>communiquer sur votre entreprise</strong>. En effet, là où votre site internet se charge d’expliquer votre entreprise à ses visiteurs, ces messages intempestifs viennent détourner l’attention du visiteur vers des sites alternatifs. Vous perdez dès lors : des visiteurs et <strong>potentiels clients</strong>, votre capacité à convaincre, tout le <strong>langage développé par votre entreprise</strong> au profit d’une autre, … Dans le seul but d’alimenter des métriques qui au final ne vous apporteront pas grand chose (si ce n’est un joli chiffre au fond d’un rapport) : likes, followers, retweet, … Si votre nombre de followers ou de likes sur Facebook comptent plus que le nombre de personnes lisant votre site et ce que vous tentez d’y communiquer, <strong>il y a un sérieux problème</strong>.</p>
+
+<p>Là où Facebook, Twitter et consorts sont de formidables outils dans la <strong>diffusion</strong> de votre message, beaucoup de sites font l’énorme erreur de <strong>vampiriser</strong> leurs visiteurs dans le seul but <strong>d’alimenter ces plateformes</strong>, créant une boucle dans votre communication où votre visiteur se retrouve pris au piège et où au final il ne lit même plus votre contenu (ce genre de messages étant assez commun dès la première visite, comme recensé sur <a href="http://jamaislepremiersoir.tumblr.com/">ce site</a>).</p>
+
+<p>Alors, pour tous vos utilisateurs mais aussi pour la clarté de votre communication, évitez les égarements digitaux, et <strong>remettez la priorité sur le coeur de votre entreprise</strong>, vous avez tout à y gagner !</p>
+
+                  
+                    <footer>
+                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
+                        <small>Tous droits réservés - Simon Vandereecken</small>
+                  </footer>
+                </article>
+              </body>
+            </html>
+        ]]>
+        </content:encoded>
+
+      </item>
     
       <item>
         <title>Le minimalisme n&#39;est pas une excuse</title>
@@ -571,68 +624,6 @@
 <p>C’est très dur de réduire un roman à quelques mots, un résumé. Temps Volés raconte une tranche de vie, une période avec ses hauts et ses bas. Je n’ai pas voulu en faire un drame, ni vraiment une romance, je tenais juste à décrire des moments humains, des sentiments, des troubles, des questionnements, … C’est une part de vie avec ses aléas, ces moments qui vous portent si haut et ces autres moments cruels et bouleversants. Je n’ai pas voulu étiquetter mes personnages, cantonner le roman à un style, pour moi le seul adjectif le résumant est simplement : humain.</p>
 
 <p>Donc, si vous désirez le lire, je vous invite à vous rendre ici : <a href="http://www.amazon.fr/Temps-Vol%C3%A9s-Simon-Vandereecken/dp/2960162005/ref=tmm_pap_title_0">Temps Volés sur Amazon</a></p>
-
-                  
-                    <footer>
-                        <aside>Ecrit par Simon Vandereecken, digital designer</aside>
-                        <small>Tous droits réservés - Simon Vandereecken</small>
-                  </footer>
-                </article>
-              </body>
-            </html>
-        ]]>
-        </content:encoded>
-
-      </item>
-    
-      <item>
-        <title>Aucun design ne transforme le plomb en or</title>
-        <link>http://vandereecken.me/blog/2014/design-ne-transforme-le-plomb-en/</link>
-        <guid isPermaLink="true">http://vandereecken.me/blog/2014/design-ne-transforme-le-plomb-en/</guid>
-        <pubDate>Wed, 19 Mar 2014 00:00:00 +0100</pubDate>
-        <author></author>
-        
-          <description>&lt;p&gt;Je vois souvent un designer appelé à la rescousse pour tenter de &lt;strong&gt;rattraper un projet bancal&lt;/strong&gt; pour, en appliquant deux trois coups de pinceaux bien placés, redresser soudainement des chiffres de vente ou faire venir soudainement un torrent de visiteurs matérialisés depuis l’éther.&lt;/p&gt;
-
-&lt;p&gt;Hors l’essence du design &lt;strong&gt;n’est pas d’appliquer une “couche de peinture”&lt;/strong&gt; sur un projet déjà formé. Le design est à l’essence d’un projet, alors que le projet est encore à l’état embryonnaire. Aucune “couche de peinture” ne viendra magiquement transformer une idée merdique en succès retentissant, aucun élément graphique n’arrivera à &lt;strong&gt;rattraper un produit inintéressant&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ainsi, les projets qui me procurent le plus de plaisir à travailler sont les projets de start-up, les &lt;strong&gt;idées naissantes&lt;/strong&gt;, où je peux étudier le projet, cibler ses forces et faiblesses, et tenter de palier à des imperfections. Voir le projet prendre forme, naitre et grandir peu à peu est pour moi le meilleur moyen de lui forger une identitée forte, faisant corps avec ses valeurs et ses aspirations.&lt;/p&gt;
-
-&lt;p&gt;C’est cette phase d’exploration, d’apprentissage et de découverte qui est à la &lt;strong&gt;base du design&lt;/strong&gt;, de la création d’une identitée, de la construction d’un produit, pas le maniement des outils de la gamme Adobe, pas la capacité à réciter dans l’ordre anti-chronologique la liste des graphistes marquants du XXe siècle.&lt;/p&gt;
-
-&lt;p&gt;Votre designer n’est pas un alchimiste capable de &lt;strong&gt;transformer le plomb en or&lt;/strong&gt;. Mais donnez lui de l’or en main et il saura vous créer les plus magnifiques parures que vos clients s’arracheront.&lt;/p&gt;
-</description>
-        
-        <content:encoded>
-            <![CDATA[
-                <!doctype html>
-                <html lang="fr" prefix="op: http://media.facebook.com/op#">
-              <head>
-                <meta charset="utf-8">
-                <link rel="canonical" href="http://vandereecken.me/blog/2014/design-ne-transforme-le-plomb-en/">
-                <meta property="op:markup_version" content="v1.0">
-              </head>
-              <body>
-                <article>
-                  <header>
-                      <h1>Aucun design ne transforme le plomb en or</h1>
-                      <figure>
-                          <img src="http://vandereecken.me/img/instant.jpg" alt=" Aucun design ne transforme le plomb en or ">
-                          <figcaption>Aucun design ne transforme le plomb en or</figcaption>
-                      </figure>
-                      <time class="op-published" dateTime="2014-03-19 00:00:00 CET">Wed, 19 Mar 2014 00:00:00 +0100</time>
-                      <time class="op-modified" dateTime=""></time>
-                  </header>
-                  
-                    <p>Je vois souvent un designer appelé à la rescousse pour tenter de <strong>rattraper un projet bancal</strong> pour, en appliquant deux trois coups de pinceaux bien placés, redresser soudainement des chiffres de vente ou faire venir soudainement un torrent de visiteurs matérialisés depuis l’éther.</p>
-
-<p>Hors l’essence du design <strong>n’est pas d’appliquer une “couche de peinture”</strong> sur un projet déjà formé. Le design est à l’essence d’un projet, alors que le projet est encore à l’état embryonnaire. Aucune “couche de peinture” ne viendra magiquement transformer une idée merdique en succès retentissant, aucun élément graphique n’arrivera à <strong>rattraper un produit inintéressant</strong>.</p>
-
-<p>Ainsi, les projets qui me procurent le plus de plaisir à travailler sont les projets de start-up, les <strong>idées naissantes</strong>, où je peux étudier le projet, cibler ses forces et faiblesses, et tenter de palier à des imperfections. Voir le projet prendre forme, naitre et grandir peu à peu est pour moi le meilleur moyen de lui forger une identitée forte, faisant corps avec ses valeurs et ses aspirations.</p>
-
-<p>C’est cette phase d’exploration, d’apprentissage et de découverte qui est à la <strong>base du design</strong>, de la création d’une identitée, de la construction d’un produit, pas le maniement des outils de la gamme Adobe, pas la capacité à réciter dans l’ordre anti-chronologique la liste des graphistes marquants du XXe siècle.</p>
-
-<p>Votre designer n’est pas un alchimiste capable de <strong>transformer le plomb en or</strong>. Mais donnez lui de l’or en main et il saura vous créer les plus magnifiques parures que vos clients s’arracheront.</p>
 
                   
                     <footer>
