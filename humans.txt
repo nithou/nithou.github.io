@@ -12,7 +12,7 @@ Thanks for the awesome particle.js script :)
 
 
 /* SITE */
-Last update: 20/09/2017
+Last update: 29/01/2018
 Standards: HTML5, CSS3, Javascript
 Components: Normalize.css, animate.css, wow.js, particle.js, Jekyll, Octopress minify, Truty
 Software: Sublime Text 2, imageOptim, CodeKit, Brackets, Adobe Photoshop, Google Chrome & Firefox
