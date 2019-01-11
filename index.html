@@ -16,24 +16,26 @@
         	body {
         		color:#545454;
         		font-family: Helvetica Neue, Helvetica, sans-serif;
+        		margin:0;
+        		padding:0;
         	}
 
         	#vcard {
-        		width:90%;
-        		max-width: 700px;
-        		margin:auto;
-        		height:300px;
-        		margin-top:25vh;
+        		width:100%;
+        		height:92vh;
+        		background-image:url('img/prophoto.jpg');
+        		background-position: bottom 0 left -300px;
+        		background-repeat: no-repeat;
+        		border:white solid 4vh;
+        		opacity:0.3;
         	}
 
-        	#prophoto {
-        		width:15em;
-        		height:15em;
-        		background-image:url('img/prophoto.jpg');
-        		background-size:100%;
-        		border-radius:15em;
-        		margin-right:2em;
-        		float:left;
+        	#card {
+        		position:absolute;
+        		width:30em;
+        		left:50%;
+        		margin-top:25vh;
+        		z-index:100;
         	}
 
         	h1 {
@@ -43,11 +45,18 @@
         		padding-top:1.5em;
         	}
 
+        	em {
+        		font-family: 'Source Serif Pro', serif;
+        		font-size:1.2em;
+        		font-variant: normal;
+        	}
+
         	h2 {
         		margin:0;
         		padding:0;
         		margin-bottom: 2em;
 				font-weight: bold;
+				font-family: 'Source Serif Pro', serif;
 				font-size: 1em;
         	}
 
@@ -62,33 +71,48 @@
         		color:#545454;
         	}
 
+        	.btn {
+        		text-decoration: none;
+        		background-color:#d43b1d;
+        		font-family: 'Source Serif Pro', serif;
+        		color:white;
+        		padding:0.5em;
+        		font-weight: bold;
+				font-size: 1em;
+        		display: inline-block;
+        		margin-top:2em;
+        		width:auto;
+        		transition:background .25s ease-in;
+        		border-radius:2px;
+        	}
+
+        	.btn:hover {
+        		background-color: #545454;
+        		color:white;
+        	}
+
     	</style>
     </head>
     <body>
 
+			<div id="card">
+	    		<h1>Simon Vandereecken</h1>
+	    		<h2>Lead UX Designer based in Paris</h2>
+
+		        <div class="links">
+				  <a href="https://www.linkedin.com/in/svandereecken/" alt="Connect on Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+
+				  <a href="https://www.twitter.com/s1monvdk" alt="Follow me Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+
+				  <a href="https://medium.com/@nithou" alt="Read my posts on Medium"><i class="fa fa-medium" aria-hidden="true"></i></a>
+				</div>
+
+				<a href="&#109;&#97;&#x69;&#108;&#116;&#111;&#58;&#115;&#105;&#x6d;&#111;&#x6e;&#x40;&#x76;&#x61;&#110;&#100;&#101;&#x72;&#x65;&#101;&#x63;&#107;&#101;&#x6e;&#x2e;&#109;&#x65;" class="btn">Reach out</a>
+			</div>
+
     	<div id="vcard">
 
-    		<div id="prophoto"></div>
-
-    		<h1>Simon Vandereecken</h1>
-    		<h2>Lead UX Designer | IHM | Service Designer</h2>
-
-	        <div class="links">
-			  <a href="https://www.linkedin.com/in/svandereecken/" alt="Connect on Linkedin"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-
-			  <a href="https://www.twitter.com/s1monvdk" alt="Follow me Twitter"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-
-			  <a href="https://medium.com/@nithou" alt="Read my posts on Medium"><i class="fa fa-medium" aria-hidden="true"></i></a>
-			</div>
-		
-		<div class="projects">
-				<p><strong>Last projects:</strong> <br/>
-				<a href="http://tranchesdelivres.org" style="font-size:1em;padding-right:0;">Tranches de Livres:</a> a weekly book & growth newsletter</p>
-			</div>
-		
 		</div>
-	    
-	   
         
         
 
